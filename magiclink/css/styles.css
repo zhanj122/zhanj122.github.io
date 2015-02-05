@@ -1,0 +1,14 @@
+body {
+    background-color: #FFD700;
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    color: red;
+    font-size: 24px;
+}
+
+.two {
+    color: orange;
+}
