@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Lekton;
+    src: url(lekton-regular-webfont.woff);
+}
+
+div {
+    font-family: Lekton;
+}
