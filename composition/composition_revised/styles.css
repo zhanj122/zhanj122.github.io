@@ -8,9 +8,7 @@
   background-image:
     linear-gradient(
     to bottom,
-      blue, 
-      #e7f5ff, 
-      rgb(255, 255, 0), 
-      green
+      #e7f5ff,
+      #bce4ff
     );
 }
