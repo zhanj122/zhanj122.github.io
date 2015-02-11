@@ -1,5 +1,16 @@
 @font-face {
   font-family: 'Lekton';
-  src: url('lekton-regular-webfont.woff2') format('woff2'), /* Chrome 26+, Opera 23+ */
-       url('lekton-regular-webfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('lekton-regular-webfont.woff2') format('woff2'),
+       url('lekton-regular-webfont.woff') format('woff');
+}
+
+.gradient {
+  background-image:
+    linear-gradient(
+    to bottom,
+      blue, 
+      #e7f5ff, 
+      rgb(255, 255, 0), 
+      green
+    );
 }
