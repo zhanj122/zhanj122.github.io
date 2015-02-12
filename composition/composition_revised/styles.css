@@ -1,12 +1,14 @@
-p1 {
+p {
 	font-family: 'Courier New', 'Courier', monospace;
 	font-size: 10px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 12px;
+	color: #e7f5ff
 }
 
 body {
     background-color: #b0c4de;
 }
+
