@@ -12,4 +12,4 @@ body {
     background-color: #d5e8f5;
 }
 
-#plow { background-image: url(hand.jpg); }
+#plow { background-image: url(hand.jpg) repeat; }
