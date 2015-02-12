@@ -1,7 +1,5 @@
-@font-face {
-  font-family: 'Lekton';
-  src: url('lekton-regular-webfont.woff2') format('woff2'),
-       url('lekton-regular-webfont.woff') format('woff');
+p {
+    font-family: "Lucida Console", Monospace;
 }
 
 .gradient {
