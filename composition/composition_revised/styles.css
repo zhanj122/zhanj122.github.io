@@ -1,3 +1,9 @@
+body {
+    background-image: url("hand.jpg");
+    background-color: #ffffff;
+    background-repeat: repeat;
+}
+
 #intro {
     color: white;
   	font-family: "Courier New", monospace;
@@ -5,8 +11,3 @@
 	  text-align: center;
 }
 
-body {
-    background-image: url("hand.jpg");
-    background-color: #ffffff;
-    background-repeat: repeat;
-}
