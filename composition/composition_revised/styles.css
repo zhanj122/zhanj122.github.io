@@ -7,11 +7,6 @@ p1 {
 	line-height: 12px;
 }
 
-.gradient {
-  background-image:
-    linear-gradient(
-    to bottom,
-      #e7f5ff,
-      #bce4ff
-    );
+body {
+    background-color: #b0c4de;
 }
