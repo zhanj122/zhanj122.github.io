@@ -1,7 +1,11 @@
-body {
+/***body {
     background-image: url("hand.jpg");
     background-color: #ffffff;
     background-repeat: repeat;
+}***/
+
+body {
+  background-color: #e0eef8;
 }
 
 #intro {
@@ -11,3 +15,14 @@ body {
 	  text-align: center;
 }
 
+.people {
+  color: white;
+}
+
+div {
+  background-color: #e0eef8;
+  background-image:
+    linear-gradient(
+      #ecf2f6, #dae8f2
+    );
+}
