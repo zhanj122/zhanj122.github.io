@@ -1,12 +1,12 @@
-p {
+#intro {
     color: white;
-}
-
-body {
   	font-family: "Courier New";
   	font-size: 10px;
 	  line-height: 12px;
 	  text-align: center;
+}
+
+body {	  
     background-color: #d5e8f5;
     background-image: url("hand.jpg"); 
 }
