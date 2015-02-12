@@ -8,4 +8,5 @@
 body {
     background-image: url("hand.jpg");
     background-color: #ffffff;
+    background-repeat: repeat;
 }
