@@ -5,7 +5,11 @@
 }***/
 
 body {
-  background-color: #e0eef8;
+    background-color: #e0eef8;
+  background-image:
+    linear-gradient(
+      #f0f5f9, #dae8f2
+    );
 }
 
 #intro {
