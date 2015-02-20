@@ -5,11 +5,18 @@ body {
     font-family: arial, helvetica, sans-serif;
 }
 
+.outer-wrapper {
+    background: #f00;
+    height: 2000px;
+    padding:30px;
+}
+
 .wrapper {
     width: 960px;
     height: 2000px;
     margin: 0 auto;
     background: #ff0;
+    position: relative;
 }
 
 .box {
