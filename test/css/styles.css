@@ -9,6 +9,7 @@ body {
     background: #f00;
     height: 2000px;
     padding:30px;
+    position: relative;
 }
 
 .wrapper {
@@ -16,7 +17,6 @@ body {
     height: 2000px;
     margin: 0 auto;
     background: #ff0;
-    position: relative;
 }
 
 .box {
