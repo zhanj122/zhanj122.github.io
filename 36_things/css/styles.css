@@ -3,16 +3,10 @@ head {
     text-align: center;
 }
 
-.box1 {
-    font-size: 12px;
-    text-align: left;
-    margin: 100px;
-}
-
-.box2 {
-    background-color: yellow;
-}
-
 .wrapper {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-wrapper {
+    background-color: blue;
 }
