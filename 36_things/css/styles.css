@@ -1,5 +1,16 @@
-header {
+/* header {
     font-size: 14px;
+    text-align: center;
+    padding-bottom: 25px;
+} */
+
+#howitworks {
+    font-size: 13px;
+    text-align: left;
+}
+
+#36things {
+    font-size: 13px;
     text-align: center;
 }
 
@@ -8,4 +19,12 @@ header {
     font-size: 12px;
     text-align: left;
     margin-left: 10px;
+}
+
+.entry1 {
+    padding-bottom: 6px;
+}
+
+.entry2 {
+    padding-bottom: 6px; 
 }
