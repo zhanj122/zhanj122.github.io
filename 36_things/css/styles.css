@@ -6,12 +6,12 @@ header {
 
 .howitworks {
     font-size: 13px;
-    text-align: left;
+    float: left;
 }
 
 .36things {
     font-size: 13px;
-    text-align: center;
+    float: center;
 }
 
 .wrapper {
