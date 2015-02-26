@@ -1,16 +1,15 @@
 header {
-    font-size: 14px;
     text-align: center;
     padding-bottom: 30px;
 }
 
 .howitworks {
-    font-size: 13px;
+    font-size: 12px;
     float: left;
 }
 
-.36things {
-    font-size: 13px;
+.thirty-six-things {
+    font-size: 12px;
     float: center;
 }
 
@@ -25,7 +24,7 @@ header {
 
 /*.entry1 {
     padding-bottom: 6px;
-}*/
+}
 
 .entry2 {
     padding-bottom: 6px; 
