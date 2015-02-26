@@ -14,16 +14,18 @@ header {
     float: center;
 }
 
-.indexentries {
+.dates {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     text-align: left;
     margin-left: 10px;
+    background-color: yellow;
+    width:50%;
 }
 
 /*.entry1 {
     padding-bottom: 6px;
-}
+}*/
 
 .entry2 {
     padding-bottom: 6px; 
