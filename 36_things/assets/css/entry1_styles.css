@@ -4,15 +4,26 @@ header {
     padding-bottom: 30px;
 }
 
+.wrapper {
+    margin: 0 auto;
+}
+
 .date {
+    width: 50%;
+    float: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     text-align: left;
     margin-left: 10px;
 }
 
-img src {
+.content {
+    width: 50%;
+    float: left;
+}
+
+/*img src {
     height: 50px;
     float: left;
     margin-left: 20px;
-}
+}*/
