@@ -1,22 +1,46 @@
-<html>
-    
-    <head>
-        <link rel="stylesheet" href=assets/css/"entry2_styles.css">
-        <title>02/14/15</title>
-    </head>
+header {
+    text-align: center;
+    padding-bottom: 30px;
+}
 
-    <body>
-        <div class="wrapper">
-            <div class="entry1">
-                <a href="entry1">Sat, Feb 14, 2015. (5:38 - 6:01 PM)</a><br>
-            </div>
-            <div class="entry2">
-                <a href="entry2">Wed, Feb 18, 2015. (2:38 - 3:04 PM)</a><br>
-           </div>
-            <div class="entry3">
-                <a href="entry3">Wed, Feb 18, 2015. (2:38 - 3:04 PM)</a><br>
-           </div>
-        </div>   
-    </body>
-    
-</html>
+* {
+    box-sizing: border-box;
+}
+
+.howitworks {
+    font-size: 12px;
+    float: left;
+}
+
+.thirty-six-things {
+    font-size: 12px;
+    float: center;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+.dates-wrapper {
+    width: 250px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: left;
+    padding-left: 35px;
+}
+
+.content-wrapper {
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.content {
+    width: 200px;
+    float: left;
+    padding: 5px;
+}
+
+.content img {
+    width: 100%;
+}
