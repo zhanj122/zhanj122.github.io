@@ -1,4 +1,4 @@
-header {
+.header {
     text-align: center;
     padding-bottom: 30px;
 }
@@ -19,12 +19,5 @@ header {
     text-align: left;
     padding-left: 35px;
     width:50%;
+    line-height: 10px;
 }
-
-/*.entry1 {
-    padding-bottom: 6px;
-}
-
-.entry2 {
-    padding-bottom: 6px; 
-}*/
