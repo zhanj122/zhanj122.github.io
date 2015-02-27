@@ -8,12 +8,12 @@ header {
 }
 
 .howitworks {
-    font-size: 12px;
+    font-size: 13px;
     float: left;
 }
 
 .thirty-six-things {
-    font-size: 12px;
+    font-size: 13px;
     float: center;
 }
 
@@ -43,6 +43,11 @@ header {
 
 .content img {
     width: 100%;
+}
+
+audio {
+    background-color: #000;
+    width: 200px;
 }
 
 /*
