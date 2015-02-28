@@ -43,6 +43,8 @@
     width: 200px;
     float: left;
     margin: 5px;
+    font-family: "courier new", courier, monospace;
+    font-size: 8px;
 }
 
 .content img {
