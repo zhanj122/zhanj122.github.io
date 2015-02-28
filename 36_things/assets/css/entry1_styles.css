@@ -46,14 +46,4 @@
     width: 100%;
 }
 
-audio {
-    background-color: #000;
-    max-width: 200px;
-}
 
-.text-box {
-    width: 200px;
-    height: 200px;
-    padding: 42px;
-    background-color: yellow;
-}
