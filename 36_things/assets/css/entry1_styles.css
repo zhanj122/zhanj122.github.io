@@ -49,4 +49,11 @@
     width: 100%;
 }
 
-
+.text-box {
+    width: 200px;
+    height: 200px;
+    padding: 60 70;
+    background-color: yellow;
+    font-family: courier, monospace;
+    font-size: 8px;
+}
