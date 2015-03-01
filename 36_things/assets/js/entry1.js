@@ -1,1 +1,0 @@
-document.getElementByClass('black-overlay').style.display='block';
