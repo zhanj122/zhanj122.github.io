@@ -46,3 +46,47 @@
     font-family: "courier new", courier, monospace;
     font-size: 9px;
 }
+
+.content img {
+    width: 100%;
+    max-height: 500px;
+    margin-bottom: 4px;
+}
+
+.link-box {
+    width: 200px;
+    height: 200px;
+    padding: 60 70;
+    margin-bottom: 4px;
+    background-color: yellow;
+    font-family: "courier new", courier, monospace;
+    font-size: 8px;
+    line-height:8px;
+}
+
+.pdf-box {
+    width: 200px;
+    height: 200px;
+    padding: 60 70;
+    margin-bottom: 4px;
+    background-color: red;
+    font-family: "courier new", courier, monospace;
+    font-size: 8px;
+    line-height:8px;
+}
+
+audio {
+    background-color: #000;
+    max-width: 200px;
+    margin-bottom: 4px;
+}
+
+video {
+    margin-bottom: 4px;
+}
+
+.iframe {
+    width: 200px;
+    height: 112px;
+    margin-bottom: 4px;
+}
