@@ -81,6 +81,10 @@ audio {
     margin-bottom: 4px;
 }
 
+video {
+    margin-bottom: 4px;
+}
+
 .iframe {
     width: 200px;
     height: 112px;
