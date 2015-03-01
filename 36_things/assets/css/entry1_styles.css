@@ -42,7 +42,7 @@
 .content {
     width: 200px;
     float: left;
-    margin: 5 5 150 5;
+    margin: 5 5 60 5;
     font-family: "courier new", courier, monospace;
     font-size: 9px;
 }
@@ -51,6 +51,7 @@
     width: 100%;
     max-height: 500px;
     margin-bottom: 4px;
+    float: left;
 }
 
 .link-box {
