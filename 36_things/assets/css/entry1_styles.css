@@ -61,6 +61,11 @@
     line-height:8px;
 }
 
+audio {
+    background-color: #000;
+    max-width: 200px;
+}
+
 /*.iframe {
     width: 200px;
     height: 112px;
