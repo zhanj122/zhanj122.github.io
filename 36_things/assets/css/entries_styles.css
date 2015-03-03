@@ -14,18 +14,18 @@
 
 .thirty-six-things {
     font-size: 13px;
-    float: center;
+    text-align: center;
 }
 
 .wrapper {
-    width: 960px;
+    width: 1060px;
     margin: 0 auto;
 }
 
-.date-wrappers {
+.dates-wrapper {
     width: 240px;
     float: left;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif !important;
     font-size: 10px;
     text-align: left;
     line-height: 14px;
@@ -34,26 +34,26 @@
 
 .content-wrapper {
     margin-right: 30px;
-    width: 630px;
+    width: 780px;
     float: left;
-    margin: 5px;
+    margin-right: 5px;
 }
 
 .content {
-    width: 200px;
+    width: 225px;
     float: left;
-    margin: 5 5 60 5;
+    margin: 5 30 60 5;
     font-family: "courier new", courier, monospace;
-    font-size: 9px;
+    font-size: 10px;
 }
 
 .content img {
     width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
     max-height: 500px;
-    margin-bottom: 4px;
+    margin-bottom: 5px;
 }                                                                 
 
-.link-box {xw
+.link-box {
     width: 200px;
     height: 200px;
     padding: 60 70;
@@ -89,4 +89,8 @@ video {
     width: 200px;
     height: 112px;
     margin-bottom: 4px;
+}
+
+.no-underline {
+    text-decoration: none;
 }
