@@ -1,0 +1,21 @@
+.image-wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.image-wrapper img {
+    width: 10px;
+}
+
+.image-left {
+    width: 50%;
+    float: left;
+}
+
+.image-right {
+    width: 50%;
+    float: left;
+}
+
+
+
