@@ -8,12 +8,12 @@
 }
 
 .howitworks {
-    font-size: 13px;
+    font-size: 14px;
     float: left;
 }
 
 .thirty-six-things {
-    font-size: 13px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -26,7 +26,7 @@
     width: 240px;
     float: left;
     font-family: Arial, Helvetica, sans-serif !important;
-    font-size: 10px;
+    font-size: 11px;
     text-align: left;
     line-height: 14px;
     margin-left: 35px;
@@ -37,6 +37,7 @@
     width: 780px;
     float: left;
     margin-right: 5px;
+    margin-bottom: 300px;
 }
 
 .content {
@@ -44,7 +45,8 @@
     float: left;
     margin: 5 30 60 5;
     font-family: "courier new", courier, monospace;
-    font-size: 10px;
+    font-size: 11px;
+    line-height: 11px;
 }
 
 .content img {
@@ -60,8 +62,8 @@
     margin-bottom: 4px;
     background-color: yellow;
     font-family: "courier new", courier, monospace;
-    font-size: 8px;
-    line-height:8px;
+    font-size: 10px;
+    line-height: 10px;
 }
 
 .pdf-box {
@@ -71,8 +73,8 @@
     margin-bottom: 4px;
     background-color: red;
     font-family: "courier new", courier, monospace;
-    font-size: 8px;
-    line-height:8px;
+    font-size: 10px;
+    line-height: 10px;
 }
 
 audio {
@@ -93,4 +95,9 @@ video {
 
 .no-underline {
     text-decoration: none;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: right;
 }
