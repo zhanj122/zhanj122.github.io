@@ -9,12 +9,17 @@
 
 .howitworks {
     font-size: 14px;
-    float: left;
+    text-align: left;
 }
 
 .thirty-six-things {
     font-size: 14px;
     text-align: center;
+}
+
+.where {
+    font-size: 14px;
+    text-align: right;
 }
 
 .wrapper {
