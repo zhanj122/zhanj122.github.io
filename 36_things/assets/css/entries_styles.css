@@ -89,7 +89,7 @@
 
 audio {
     background-color: #000;
-    max-width: 200px;
+    max-width: 225px;
     margin-bottom: 4px;
 }
 
@@ -98,7 +98,7 @@ video {
 }
 
 .iframe {
-    width: 200px;
+    width: 225px;
     height: 112px;
     margin-bottom: 4px;
 }
@@ -106,5 +106,6 @@ video {
 .footer {
     font-size: 14px;
     text-align: right;
+    float: right;
     text-decoration: italic;
 }
