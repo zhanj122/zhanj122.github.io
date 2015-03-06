@@ -33,27 +33,26 @@
 
 .dates-wrapper {
     width: 240px;
+    margin-left: 35px;
     float: left;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif !important;
     font-size: 11px;
-    text-align: left;
     line-height: 25px;
-    margin-left: 35px;
 }
 
 .content-wrapper {
-    margin-right: 30px;
     width: 780px;
-    float: left;
     margin-right: 5px;
-    margin-bottom: 300px;
+    margin-bottom: 350px;
+    float: left;
     font-size: 0;
 }
 
 .content {
     width: 225px;
-    display: inline-block;
     margin: 5 30 60 5;
+    display: inline-block;
     font-family: "courier new", courier, monospace;
     font-size: 10px;
     line-height: 10px;
