@@ -1,40 +1,6 @@
-.header {
-    text-align: center;
-    padding-bottom: 30px;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-.howitworks {
-    font-size: 13px;
-    float: left;
-}
-
-.thirty-six-things {
-    font-size: 13px;
-    float: center;
-}
-
-.wrapper {
-    width: 960px;
-    margin: 0 auto;
-}
-
-.dates-wrapper {
-    width: 240px;
-    float: left;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
-    text-align: left;
-    line-height: 14px;
-    margin-left: 35px;
-}
-
-.content-wrapper {
-    margin-right: 30px;
-    width: 630px;
-    float: left;
-    margin: 5px;
+body {
+    width: 800px;
+    margin: 50px;
+    font-family: "courier new", courier, monospace;
+    font-size: 12px;
 }
