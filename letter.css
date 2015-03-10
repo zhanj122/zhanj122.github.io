@@ -1,0 +1,41 @@
+.letter {
+    background: #ff0;
+    width: 300px;
+    height: 400px;
+    position: relative;
+}
+
+.bar {
+    background: #000;
+    position: absolute;
+}
+
+.horizontal {
+    width: 50px;
+    height: 300px;
+}
+
+.vertical {
+    width: 350px;
+    height: 50px;
+    background: #f0f;
+}
+
+
+
+
+
+
+
+/*
+
+static
+fixed - always stays there on the screen
+absolute - takes it out of the flow of the document
+relative - keeps it in the flow of the document in relation to the margin values
+
+DON'T REPEAT YOURSELF!!! KEEP YOUR CODE "DRY"
+
+*by adding a space, you add a class*
+
+*/
