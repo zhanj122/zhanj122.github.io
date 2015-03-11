@@ -1,22 +1,25 @@
-.block3_1 {
+.block8_1 {
     width: 4%;
-    height: 15%;
+    height: 10%;
     position: fixed;
-    right: 5%;
+    left: 5%;
     top: 5%;
-    background-color: #ff5000;
+    background-color: #00ff4e;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
-.block3_2 {
-    width: 60%;
-    height: 25%;
-    position: absolute;
-    left: 20%;
-    bottom: 0;
-    background-color: #ff5000;
+.block8_2 {
+    width: 4%;
+    height: 5%;
+    position: fixed;
+    left: 5%;
+    top: 5%;
+    background-color: #00ff4e;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 .content-wrapper {
@@ -28,6 +31,7 @@
     float: center;
     margin-top: 15%;
     margin-left: 500px;
+    
 }
 
 .main-pic img {
