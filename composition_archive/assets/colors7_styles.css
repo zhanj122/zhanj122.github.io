@@ -1,9 +1,9 @@
-.block4 {
-    width: 4%;
-    height: 5%;
-    position: fixed;
-    right: 5%;
-    top: 5%;
+.block7 {
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
     background-color: purple;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
