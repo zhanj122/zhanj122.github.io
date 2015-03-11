@@ -1,0 +1,97 @@
+body {       
+    font-size: 100px;
+}
+
+.word-wrapper1 {
+    display: inline-block;
+    width: 660px;
+    margin-right: 50px;
+}
+
+.word-wrapper2 {
+    display: inline-block;
+    width: 330px;
+    margin-right: 50px;
+}
+
+.letter-wrapper {
+    width: 300px;
+    height: 400px;
+    position: relative;
+    display: inline-block;
+}
+
+.bar {
+    background: #000;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.circle {
+    background: #000;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    position: fixed;
+    top: 50px;
+    right: 100px;
+    background-color: yellow;
+}
+
+.rectangle {
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    position: relative;
+    transform: rotate(20deg);
+    transform-origin: top left;
+}
+
+.horizontal {
+    width: 300px;
+    height: 50px;
+}
+
+.vertical {
+    width: 50px;
+    height: 400px;
+}
+
+.a-left {
+    top: 0;
+    left: 0;
+}
+
+.a-top {
+    top: 0;
+    left: 0;
+}
+
+.a-right {
+    right: 0;
+}
+
+.a-mid {
+    left: 0;
+    top: 175px;
+}
+
+.blue {
+    background: blue;
+}
+
+/*
+
+static
+fixed - always stays there on the screen
+absolute - takes it out of the flow of the document
+relative - keeps it in the flow of the document in relation to the margin values
+
+DON'T REPEAT YOURSELF!!! KEEP YOUR CODE "DRY" (the "bar" class keeps the code dry
+by applying specifications to multiple things, so you don't need to go back and 
+change individual things)
+
+*by adding a space, you add a class*
+
+*/

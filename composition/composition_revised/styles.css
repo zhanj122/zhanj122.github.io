@@ -11,7 +11,7 @@ body {
     );
 }
 
-#intro {
+.intro {
     color: white;
   	font-family: "Courier New", monospace;
   	font-size: 10px;
