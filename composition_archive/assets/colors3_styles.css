@@ -44,6 +44,16 @@
     text-align: center;
 }
 
+.color_yellow {
+    color: yellow;
+    display: inline-block;
+}
+
+.color_white {
+    color: white;
+    display: inline-block;
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
