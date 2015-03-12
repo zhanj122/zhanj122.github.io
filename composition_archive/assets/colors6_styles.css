@@ -74,6 +74,11 @@
     display: inline-block;   
 }
 
+.color_ccffcc {
+    color: #ccffcc;
+    display: inline-block;    
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
