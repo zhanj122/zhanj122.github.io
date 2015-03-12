@@ -59,6 +59,11 @@
     display: inline-block;
 }
 
+.color_ff33cc {
+    color: #ff33cc;
+    display: inline-block;   
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
