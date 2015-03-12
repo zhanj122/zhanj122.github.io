@@ -31,6 +31,10 @@
     font-size: 12px;
     text-align: center;
 }
+.color_white {
+    color: white;
+    display: inline-block;
+}
 
 .color_FF6200 {
     color: #FF6200;
@@ -48,12 +52,12 @@
 }
 
 .color_FFC400 {
-    color: #FF6200;
+    color: #FFC400;
     display: inline-block;    
 }
 
 .color_E30B00 {
-    color: #FF6200;
+    color: #E30B00;
     display: inline-block;    
 }
 
