@@ -46,6 +46,11 @@
     display: inline-block;
 }
 
+.color_red {
+    color: red;
+    display: inline-block;
+}
+
 .color_3300ff {
     color: #3300ff;
     display: inline-block;    
@@ -69,6 +74,16 @@
 .color_ccffff {
     color: #ccffff;
     display: inline-block;     
+}
+
+.color_f35626 {
+    color: #f35626;
+    display: inline-block;   
+}
+
+.color_feab3a {
+    color: #feab3a;
+    display: inline-block;       
 }
 
 .main-pic img {
