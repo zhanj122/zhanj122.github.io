@@ -32,6 +32,31 @@
     text-align: center;
 }
 
+.color_FF6200 {
+    color: #FF6200;
+    display: inline-block;
+}
+
+.color_009DFF {
+    color: #009DFF;
+    display: inline-block;    
+}
+
+.color_5900F2 {
+    color: #5900F2;
+    display: inline-block;    
+}
+
+.color_FFC400 {
+    color: #FF6200;
+    display: inline-block;    
+}
+
+.color_E30B00 {
+    color: #FF6200;
+    display: inline-block;    
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
