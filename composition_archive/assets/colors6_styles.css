@@ -44,6 +44,36 @@
     text-align: center;
 }
 
+.color_yellow {
+    color: yellow;
+    display: inline-block;
+}
+
+.color_white {
+    color: white;
+    display: inline-block;
+}
+
+.color_red {
+    color: red;
+    display: inline-block;
+}
+
+.color_666699 {
+    color: #666699;
+    display: inline-block;  
+}
+
+.color_66ffcc {
+    color: #66ffcc;
+    display: inline-block;
+}
+
+.color_cc66ff {
+    color: #cc66ff;
+    display: inline-block;   
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;

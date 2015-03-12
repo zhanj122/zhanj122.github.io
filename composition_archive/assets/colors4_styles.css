@@ -32,6 +32,21 @@
     text-align: center;
 }
 
+.color_red {
+    color: red;
+    display: inline-block;
+}
+
+.color_grey {
+    color: grey;
+    display: inline-block;
+}
+
+.color_d5d5d5 {
+    color: d5d5d5;
+    display: inline-block;    
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
