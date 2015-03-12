@@ -86,6 +86,21 @@
     display: inline-block;       
 }
 
+.color_ff9af9 {
+    color: #ff9af9;
+    display: inline-block;      
+}
+
+.color_f0f5f9 {
+    color: #f0f5f9;
+    display: inline-block;      
+}
+
+.color_dae8f2 {
+    color: #dae8f2;
+    display: inline-block;      
+}
+
 .main-pic img {
     width: 650px;
     margin-top: 20px;
