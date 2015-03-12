@@ -64,14 +64,14 @@
     display: inline-block;   
 }
 
-.color_e3c91e {
-    color: #e3c91e;
-    display: inline-block;  
-}
-
 .color_5b1923 {
     color: #5b1923;
     display: inline-block;
+}
+
+.color_e3c91e {
+    color: #e3c91e;
+    display: inline-block;  
 }
 
 .main-pic img {
