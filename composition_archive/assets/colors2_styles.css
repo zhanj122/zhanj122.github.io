@@ -22,8 +22,12 @@
     margin-top: 30px;
     margin-left: 225px;
     margin-right: 225px;
-    background-color: gray;
+    background-color: black;
     display: block;
+}
+
+.box {
+    opacity: 0.1;
 }
 
 .main-pic img {
