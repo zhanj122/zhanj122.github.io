@@ -26,6 +26,7 @@
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block3_1 {
@@ -34,10 +35,11 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    background-color: #ff5000;
+    background-color: #ff5400;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block3_2 {
@@ -46,7 +48,7 @@
     position: absolute;
     left: 20%;
     bottom: 0;
-    background-color: #ff5000;
+    background-color: #ff5400;
 }
 
 .block4 {
@@ -55,10 +57,11 @@
     position: absolute;
     left: 40%;
     bottom: 25%;
-    background-color: blue;
+    background-color: #ffde00;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block6_1 {
@@ -67,10 +70,11 @@
     position: absolute;
     right: 0;
     top: 25%;
-    background-color: red;
+    background-color: #b800ce;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block6_2 {
@@ -79,10 +83,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: red;
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    background-color: #b800ce;
 }
 
 .block7 {
@@ -91,10 +92,11 @@
     position: absolute;
     right: 20%;
     bottom: 25%;
-    background-color: purple;
+    background-color: #36ff00;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block8_1 {
@@ -103,10 +105,11 @@
     position: absolute;
     left: 20%;
     top: 25%;
-    background-color: #00ff4e;
+    background-color: #35acff;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 60px;
 }
 
 .block8_2 {
@@ -115,8 +118,5 @@
     position: absolute;
     left: 40%;
     top: 25%;
-    background-color: #00ff4e;
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    background-color: #35acff;
 }
