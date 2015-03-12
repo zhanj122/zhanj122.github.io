@@ -59,6 +59,16 @@
     display: inline-block;
 }
 
+.color_green {
+    color: green;
+    display: inline-block;
+}
+
+.color_blue {
+    color: blue;
+    display: inline-block;
+}
+
 .color_666699 {
     color: #666699;
     display: inline-block;  
@@ -76,6 +86,26 @@
 
 .color_ccffcc {
     color: #ccffcc;
+    display: inline-block;    
+}
+
+.color_ffe6cc {
+    color: #ffe6cc;
+    display: inline-block;
+}
+
+.color_ffdbb8 {
+    color: #ffdbb8;
+    display: inline-block;    
+}
+
+.color_b29981 {
+    color: #b29981;
+    display: inline-block;    
+}
+
+.color_7d6b5a {
+    color: #7d6b5a;
     display: inline-block;    
 }
 
