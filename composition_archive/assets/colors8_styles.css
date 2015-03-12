@@ -24,12 +24,22 @@
     margin: 0 auto;
 }
 
+.background {
+    width: 750px;
+    height: 545px;
+    margin-top: 30px;
+    margin-left: 225px;
+    margin-right: 225px;
+    background-color: gray;
+    display: block;
+}
+
 .main-pic img {
-    width: 700px;
-    margin-top: 60;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 20;
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-bottom: 125px;
     float: left;
 }
 
