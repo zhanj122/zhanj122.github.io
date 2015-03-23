@@ -1,18 +1,16 @@
-.title {
-    font-family: "Times New Roman", serif;
-    font-size: 14px;
-    text-align: center;
-    margin-top: 50px;
+body {
+    width: 1000px;
+    margin: 0 auto;
 }
 
-.content-wrapper {
-    text-align: left;
-    margin-left: 200px;
-    line-height: 18px;
+.title {
+    font-family: "Times New Roman", serif;
+    text-decoration: italic, bold;
+    font-size: 14px;
+    text-align: center;
 }
 
 .footer {
-    margin-top: 40px;
     text-decoration: italic;
 }
 
