@@ -1,0 +1,836 @@
+.a-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 108px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 114px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 123px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 144px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 150px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-6 {
+    width: 12px;
+    height: 54px;
+    margin-top: 117px;
+    margin-left: 153px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 144px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 123px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 114px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 108px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 141px;
+    margin-left: 105px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 150px;
+    margin-left: 108px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 114px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-14 {
+    width: 24px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 123px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 144px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 51px;
+    margin-left: 214px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 220px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 226px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 238px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 250px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 256px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 123px;
+    margin-left: 262px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 256px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 250px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 238px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 226px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 220px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 123px;
+    margin-left: 332px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 338px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 338px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 344px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 344px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 356px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 356px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 368px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 368px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 374px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 374px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 123px;
+    margin-left: 444px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 450px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 456px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 468px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 480px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 486px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 450px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 456px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 468px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 480px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 486px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-12 {
+    width: 12px;
+    height: 120px;
+    margin-top: 51px;
+    margin-left: 492px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 123px;
+    margin-left: 562px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-2 {
+    width: 48px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 574px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 568px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 574px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 586px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 598px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 604px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 568px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 574px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 586px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 598px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 604px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-1 {
+    width: 48px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 680px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-2 {
+    width: 12px;
+    height: 99px;
+    margin-top: 72px;
+    margin-left: 692px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 698px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 704px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 716px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 728px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 734px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 123px;
+    margin-left: 804px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 810px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 810px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 816px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 816px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 828px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 840px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 846px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 828px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 840px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 846px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-12 {
+    width: 12px;
+    height: 96px;
+    margin-top: 99px;
+    margin-left: 852px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 195px;
+    margin-left: 846px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 204px;
+    margin-left: 840px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 207px;
+    margin-left: 828px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 204px;
+    margin-left: 816px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 195px;
+    margin-left: 810px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 51px;
+    margin-left: 922px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 925px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 931px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 940px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 961px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 967px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-7 {
+    width: 12px;
+    height: 48px;
+    margin-top: 123px;
+    margin-left: 970px;
+    position: absolute;
+    background-color: black;
+}
