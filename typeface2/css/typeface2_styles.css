@@ -1,6 +1,9 @@
 .all-blocks-wrapper {
     width: 1040px;
+    height: 2000px;
     float: left;
+    display: inline-block;
+    
 }
 
 .a-blocks-wrapper {
@@ -24,4 +27,346 @@
     margin-left: 33px;
     position: absolute;
     background-color: black;
+}
+
+.a-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 15px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-6 {
+    width: 12px;
+    height: 54px;
+    margin-top: 33px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-14 {
+    width: 24px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-blocks-wrapper {
+    width: 102px;
+    height: 153px;
+}
+
+.c-blocks-wrapper {
+    width: 84px;
+    height: 108px;
+}
+
+.d-blocks-wrapper {
+    width: 102px;
+    height: 156px;
+}
+
+.e-blocks-wrapper {
+    width: 84px;
+    height: 123px;
+}
+
+.f-blocks-wrapper {
+    width: 102px;
+    height: 165px;
+}
+
+.g-blocks-wrapper {
+    width: 102px;
+    height: 171px;
+}
+
+.c-blocks-wrapper {
+    width: 84px;
+    height: 108px;
+}
+
+.d-blocks-wrapper {
+    width: 102px;
+    height: 156px;
+}
+
+.h-blocks-wrapper {
+    width: 102px;
+    height: 156px;
+}
+
+.i-blocks-wrapper {
+    width: 66px;
+    height: 150px;
+}
+
+.j-blocks-wrapper {
+    width: 102px;
+    height: 192px;
+}
+
+.k-blocks-wrapper {
+    width: 108px;
+    height: 168px;
+}
+
+.l-blocks-wrapper {
+    width: 66px;
+    height: 168px;
+}
+
+.m-blocks-wrapper {
+    width: 147px;
+    height: 126px;
+}
+
+.n-blocks-wrapper {
+    width: 105px;
+    height: 126px;
+}
+
+.o-blocks-wrapper {
+    width: 102px;
+    height: 108px;
+}
+
+.p-blocks-wrapper {
+    width: 108px;
+    height: 174px;
+}
+
+.q-blocks-wrapper {
+    width: 114px;
+    height: 183px;
+}
+
+.r-blocks-wrapper {
+    width: 111px;
+    height: 138px;
+}
+
+.s-blocks-wrapper {
+    width: 96px;
+    height: 108px;
+}
+
+.t-blocks-wrapper {
+    width: 102px;
+    height: 162px;
+}
+
+.u-blocks-wrapper {
+    width: 114px;
+    height: 126px;
+}
+
+.v-blocks-wrapper {
+    width: 87px;
+    height: 123px;
+}
+
+.w-blocks-wrapper {
+    width: 159px;
+    height: 135px;
+}
+
+.x-blocks-wrapper {
+    width: 108px;
+    height: 132px;
+}
+
+.y-blocks-wrapper {
+    width: 105px;
+    height: 156px;
+}
+
+.z-blocks-wrapper {
+    width: 96px;
+    height: 138px;
+}
+
+.one-blocks-wrapper {
+    width: 72px;
+    height: 150px;
+}
+
+.two-blocks-wrapper {
+    width: 105px;
+    height: 129px;
+}
+
+.three-blocks-wrapper {
+    width: 108px;
+    height: 150px;
+}
+
+.four-blocks-wrapper {
+    width: 108px;
+    height: 156px;
+}
+
+.five-blocks-wrapper {
+    width: 84px;
+    height: 153px;
+}
+
+.six-blocks-wrapper {
+    width: 96px;
+    height: 153px;
+}
+
+.seven-blocks-wrapper {
+    width: 96px;
+    height: 144px;
+}
+
+.eight-blocks-wrapper {
+    width: 108px;
+    height: 144px;
+}
+
+.nine-blocks-wrapper {
+    width: 114px;
+    height: 144px;
+}
+
+.zero-blocks-wrapper {
+    width: 102px;
+    height: 162px;
+}
+
+.period-blocks-wrapper {
+    width: 54px;
+    height: 78px;
+}
+
+.comma-blocks-wrapper {
+    width: 54px;
+    height: 72px;
+}
+
+.ldquo-blocks-wrapper {
+    width: 72px;
+    height: 72px;
+}
+
+.rdquo-blocks-wrapper {
+    width: 90px;
+    height: 60px;
+}
+
+.exclamation-blocks-wrapper {
+    width: 72px;
+    height: 174px;
+}
+
+.question-blocks-wrapper {
+    width: 93px;
+    height: 186px;
+}
+
+.lparenthesis-blocks-wrapper {
+    width: 81px;
+    height: 168px;
+}
+
+.rparenthesis-blocks-wrapper {
+    width: 75px;
+    height: 156px;
 }
