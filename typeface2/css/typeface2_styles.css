@@ -2634,9 +2634,171 @@
     height: 150px;
 }
 
+.one-block-1 {
+    width: 12px;
+    height: 84px;
+    margin-top: 24px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-4 {
+    width: 36px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
 .two-blocks-wrapper {
     width: 105px;
     height: 129px;
+}
+
+.two-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 21px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-14 {
+    width: 60px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
 }
 
 .three-blocks-wrapper {
@@ -2644,9 +2806,198 @@
     height: 150px;
 }
 
+.three-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-5 {
+    width: 12px;
+    height: 24px;
+    margin-top: 44px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 62px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-7 {
+    width: 24px;
+    height: 12px;
+    margin-top: 71px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 80px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-9 {
+    width: 12px;
+    height: 24px;
+    margin-top: 86px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 110px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-11 {
+    width: 24px;
+    height: 12px;
+    margin-top: 113px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 110px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 98px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
 .four-blocks-wrapper {
     width: 108px;
     height: 156px;
+}
+
+.four-block-1 {
+    width: 60px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-8 {
+    width: 12px;
+    height: 96px;
+    margin-top: 30px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
 }
 
 .five-blocks-wrapper {
@@ -2654,9 +3005,216 @@
     height: 153px;
 }
 
+.five-block-1 {
+    width: 12px;
+    height: 36px;
+    margin-top: 36px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-2 {
+    width: 48px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-3 {
+    width: 36px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-10 {
+    width: 24px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
 .six-blocks-wrapper {
     width: 96px;
     height: 153px;
+}
+
+.six-block-1 {
+    width: 12px;
+    height: 66px;
+    margin-top: 51px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-6 {
+    width: 12px;
+    height: 30px;
+    margin-top: 87px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-11 {
+    width: 24px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
 }
 
 .seven-blocks-wrapper {
@@ -2664,9 +3222,207 @@
     height: 144px;
 }
 
+.seven-block-1 {
+    width: 60px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-7 {
+    width: 12px;
+    height: 30px;
+    margin-top: 96px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
 .eight-blocks-wrapper {
     width: 108px;
     height: 144px;
+}
+
+.eight-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 42px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-5 {
+    width: 12px;
+    height: 24px;
+    margin-top: 42px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-11 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-12 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-15 {
+    width: 24px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
 }
 
 .nine-blocks-wrapper {
