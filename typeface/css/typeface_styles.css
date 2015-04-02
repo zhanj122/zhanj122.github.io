@@ -1,6 +1,6 @@
 .all-blocks-wrapper {
-    width: 1040px;
     height: 2000px;
+    float: left;
     display: inline-block;
     font-size: 0;
 }
@@ -9,6 +9,10 @@
     width: 117px;
     height: 114px;
     margin-bottom: 60px;
+}
+
+.a-color-wrapper {
+    opacity: 1.0;
 }
 
 .a-block-1 {
@@ -152,7 +156,7 @@
     margin-top: 57px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-2 {
@@ -161,7 +165,7 @@
     margin-top: 69px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-3 {
@@ -170,7 +174,7 @@
     margin-top: 78px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-4 {
@@ -179,7 +183,7 @@
     margin-top: 84px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .a-color-5 {
@@ -188,7 +192,7 @@
     margin-top: 87px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .a-color-6 {
@@ -197,7 +201,7 @@
     margin-top: 87px;
     margin-left: 72px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-7 {
@@ -206,7 +210,7 @@
     margin-top: 84px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .a-color-8 {
@@ -215,7 +219,7 @@
     margin-top: 90px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-9 {
@@ -224,7 +228,7 @@
     margin-top: 87px;
     margin-left: 84px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .a-color-10 {
@@ -233,16 +237,16 @@
     margin-top: 75px;
     margin-left: 84px;
     position: absolute;
-    background-color: pink;
+    background-color: #f562c6;
 }
 
 .a-color-11 {
     width: 12px;
-    height: 48px;
+    height: 42px;
     margin-top: 33px;
     margin-left: 84px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .a-color-12 {
@@ -251,7 +255,7 @@
     margin-top: 21px;
     margin-left: 81px;
     position: absolute;
-    background-color: pink;
+    background-color: #f562c6;
 }
 
 .a-color-13 {
@@ -260,7 +264,7 @@
     margin-top: 6px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .a-color-14 {
@@ -269,7 +273,7 @@
     margin-top: 18px;
     margin-left: 75px;
     position: absolute;
-    background-color: pink;
+    background-color: #f562c6;
 }
 
 .a-color-15 {
@@ -278,7 +282,7 @@
     margin-top: 3px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .a-color-16 {
@@ -287,7 +291,7 @@
     margin-top: 6px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-17 {
@@ -296,7 +300,7 @@
     margin-top: 18px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-18 {
@@ -305,7 +309,7 @@
     margin-top: 18px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe
 }
 
 .a-color-19 {
@@ -314,7 +318,7 @@
     margin-top: 12px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe
 }
 
 .a-color-20 {
@@ -323,7 +327,7 @@
     margin-top: 24px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-21 {
@@ -332,7 +336,7 @@
     margin-top: 36px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .a-color-22 {
@@ -341,7 +345,7 @@
     margin-top: 36px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .a-color-23 {
@@ -350,7 +354,7 @@
     margin-top: 36px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-24 {
@@ -359,7 +363,7 @@
     margin-top: 36px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .a-color-25 {
@@ -368,7 +372,7 @@
     margin-top: 42px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe
 }
 
 .a-color-35 {
@@ -377,7 +381,7 @@
     margin-top: 51px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe
 }
 
 .a-color-36 {
@@ -386,7 +390,7 @@
     margin-top: 51px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe
 }
 
 .a-color-37 {
@@ -395,7 +399,7 @@
     margin-top: 48px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe
 }
 
 .a-color-26 {
@@ -404,7 +408,7 @@
     margin-top: 42px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .a-color-27 {
@@ -413,7 +417,7 @@
     margin-top: 30px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .a-color-28 {
@@ -422,7 +426,7 @@
     margin-top: 36px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .a-color-29 {
@@ -431,7 +435,7 @@
     margin-top: 27px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .a-color-30 {
@@ -440,7 +444,7 @@
     margin-top: 33px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .a-color-31 {
@@ -449,7 +453,7 @@
     margin-top: 27px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-32 {
@@ -458,7 +462,7 @@
     margin-top: 30px;
     margin-left: 63px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-33 {
@@ -467,7 +471,7 @@
     margin-top: 36px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-34 {
@@ -476,7 +480,7 @@
     margin-top: 36px;
     margin-left: 63px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .a-color-38 {
@@ -485,7 +489,7 @@
     margin-top: 66px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-39 {
@@ -494,7 +498,7 @@
     margin-top: 66px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .a-color-40 {
@@ -503,7 +507,7 @@
     margin-top: 54px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .a-color-41 {
@@ -512,7 +516,7 @@
     margin-top: 51px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-42 {
@@ -521,7 +525,7 @@
     margin-top: 72px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .a-color-43 {
@@ -530,7 +534,7 @@
     margin-top: 51px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc
 }
 
 .a-color-44 {
@@ -539,7 +543,7 @@
     margin-top: 63px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-45 {
@@ -548,7 +552,7 @@
     margin-top: 72px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-46 {
@@ -557,7 +561,7 @@
     margin-top: 69px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-47 {
@@ -566,7 +570,7 @@
     margin-top: 66px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-48 {
@@ -575,7 +579,7 @@
     margin-top: 51px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-49 {
@@ -584,7 +588,7 @@
     margin-top: 54px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-50 {
@@ -593,7 +597,7 @@
     margin-top: 57px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe
 }
 
 .a-color-51 {
@@ -602,7 +606,7 @@
     margin-top: 54px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .a-color-52 {
@@ -611,7 +615,7 @@
     margin-top: 60px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-53 {
@@ -620,7 +624,7 @@
     margin-top: 60px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .a-color-54 {
@@ -629,7 +633,7 @@
     margin-top: 66px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .a-color-55 {
@@ -638,7 +642,7 @@
     margin-top: 0px;
     margin-left: 78px;
     position: absolute;
-    background-color: pink;
+    background-color: #a6fffe;
 }
 
 .a-color-56 {
@@ -647,7 +651,7 @@
     margin-top: 21px;
     margin-left: 105px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .a-color-57 {
@@ -656,7 +660,7 @@
     margin-top: 69px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb
 }
 
 .a-color-58 {
@@ -665,7 +669,7 @@
     margin-top: 108px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .b-blocks-wrapper {
@@ -788,7 +792,7 @@
     margin-top: 135px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-2 {
@@ -797,7 +801,7 @@
     margin-top: 138px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-3 {
@@ -806,7 +810,7 @@
     margin-top: 135px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-4 {
@@ -815,7 +819,7 @@
     margin-top: 126px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .b-color-5 {
@@ -824,7 +828,7 @@
     margin-top: 114px;
     margin-left: 72px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .b-color-6 {
@@ -833,7 +837,7 @@
     margin-top: 90px;
     margin-left: 78px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .b-color-7 {
@@ -842,7 +846,7 @@
     margin-top: 78px;
     margin-left: 72px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .b-color-8 {
@@ -851,7 +855,7 @@
     margin-top: 66px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .b-color-9 {
@@ -860,7 +864,7 @@
     margin-top: 57px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .b-color-10 {
@@ -869,7 +873,7 @@
     margin-top: 54px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-11 {
@@ -878,7 +882,7 @@
     margin-top: 57px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-12 {
@@ -887,7 +891,7 @@
     margin-top: 21px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .b-color-13 {
@@ -896,7 +900,7 @@
     margin-top: 9px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-14 {
@@ -905,7 +909,7 @@
     margin-top: 6px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .b-color-15 {
@@ -914,7 +918,7 @@
     margin-top: 6px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .b-color-16 {
@@ -923,7 +927,7 @@
     margin-top: 18px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .b-color-17 {
@@ -932,7 +936,7 @@
     margin-top: 114px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .b-color-18 {
@@ -941,7 +945,7 @@
     margin-top: 126px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .b-color-19 {
@@ -950,7 +954,7 @@
     margin-top: 138px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .b-color-20 {
@@ -959,7 +963,7 @@
     margin-top: 138px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .b-color-21 {
@@ -968,7 +972,7 @@
     margin-top: 114px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-22 {
@@ -977,7 +981,7 @@
     margin-top: 102px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .b-color-23 {
@@ -986,7 +990,7 @@
     margin-top: 90px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .b-color-24 {
@@ -995,16 +999,7 @@
     margin-top: 78px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
-}
-
-.b-color-25 {
-    width: 12px;
-    height: 12px;
-    margin-top: 90px;
-    margin-left: 42px;
-    position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-26 {
@@ -1013,7 +1008,7 @@
     margin-top: 90px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .b-color-27 {
@@ -1022,7 +1017,7 @@
     margin-top: 102px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-28 {
@@ -1031,7 +1026,7 @@
     margin-top: 90px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .b-color-29 {
@@ -1040,7 +1035,7 @@
     margin-top: 102px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .b-color-30 {
@@ -1049,7 +1044,7 @@
     margin-top: 114px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .b-color-31 {
@@ -1058,7 +1053,7 @@
     margin-top: 114px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-32 {
@@ -1067,7 +1062,7 @@
     margin-top: 84px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .b-color-33 {
@@ -1076,7 +1071,7 @@
     margin-top: 84px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .b-color-34 {
@@ -1085,7 +1080,7 @@
     margin-top: 81px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-35 {
@@ -1094,7 +1089,7 @@
     margin-top: 81px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .b-color-36 {
@@ -1103,7 +1098,7 @@
     margin-top: 81px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-37 {
@@ -1112,7 +1107,7 @@
     margin-top: 81px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-38 {
@@ -1121,7 +1116,7 @@
     margin-top: 120px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-39 {
@@ -1130,7 +1125,7 @@
     margin-top: 120px;
     margin-left: 39px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-40 {
@@ -1139,7 +1134,7 @@
     margin-top: 120px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-41 {
@@ -1148,7 +1143,7 @@
     margin-top: 120px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-42 {
@@ -1157,7 +1152,7 @@
     margin-top: 54px;
     margin-left: 90px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .b-color-43 {
@@ -1166,7 +1161,7 @@
     margin-top: 39px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .b-color-44 {
@@ -1175,7 +1170,7 @@
     margin-top: 0px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #fd8047;
 }
 
 .b-color-45 {
@@ -1184,7 +1179,7 @@
     margin-top: 147px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #a6fffe;
 }
 
 .c-blocks-wrapper {
@@ -1298,7 +1293,7 @@
     margin-top: 60px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-2 {
@@ -1307,7 +1302,7 @@
     margin-top: 84px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .c-color-3 {
@@ -1316,7 +1311,7 @@
     margin-top: 96px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .c-color-4 {
@@ -1325,7 +1320,7 @@
     margin-top: 105px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-5 {
@@ -1334,7 +1329,7 @@
     margin-top: 108px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-6 {
@@ -1343,7 +1338,7 @@
     margin-top: 105px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .c-color-7 {
@@ -1352,7 +1347,7 @@
     margin-top: 96px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-8 {
@@ -1361,7 +1356,7 @@
     margin-top: 108px;
     margin-left: 72px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .c-color-9 {
@@ -1370,7 +1365,7 @@
     margin-top: 84px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .c-color-10 {
@@ -1379,7 +1374,7 @@
     margin-top: 48px;
     margin-left: 66px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .c-color-11 {
@@ -1388,7 +1383,7 @@
     margin-top: 60px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .c-color-12 {
@@ -1397,7 +1392,7 @@
     margin-top: 63px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .c-color-13 {
@@ -1406,7 +1401,7 @@
     margin-top: 51px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .c-color-14 {
@@ -1415,7 +1410,7 @@
     margin-top: 51px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .c-color-15 {
@@ -1424,7 +1419,7 @@
     margin-top: 63px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-16 {
@@ -1433,7 +1428,7 @@
     margin-top: 75px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .c-color-17 {
@@ -1442,7 +1437,7 @@
     margin-top: 75px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-18 {
@@ -1451,7 +1446,7 @@
     margin-top: 87px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .c-color-19 {
@@ -1460,7 +1455,7 @@
     margin-top: 87px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .c-color-20 {
@@ -1469,7 +1464,7 @@
     margin-top: 87px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-21 {
@@ -1478,7 +1473,7 @@
     margin-top: 87px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-22 {
@@ -1487,7 +1482,7 @@
     margin-top: 78px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-23 {
@@ -1496,7 +1491,7 @@
     margin-top: 72px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-24 {
@@ -1505,7 +1500,7 @@
     margin-top: 66px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-25 {
@@ -1514,79 +1509,25 @@
     margin-top: 60px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
-}
-
-.c-color-26 {
-    width: 3px;
-    height: 3px;
-    margin-top: 93px;
-    margin-left: 45px;
-    position: absolute;
-    background-color: pink;
-}
-
-.c-color-27 {
-    width: 3px;
-    height: 3px;
-    margin-top: 93px;
-    margin-left: 42px;
-    position: absolute;
-    background-color: pink;
-}
-
-.c-color-28 {
-    width: 3px;
-    height: 3px;
-    margin-top: 93px;
-    margin-left: 39px;
-    position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-29 {
-    width: 3px;
+    width: 12px;
     height: 3px;
     margin-top: 93px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
-}
-
-.c-color-30 {
-    width: 3px;
-    height: 3px;
-    margin-top: 48px;
-    margin-left: 45px;
-    position: absolute;
-    background-color: pink;
-}
-
-.c-color-31 {
-    width: 3px;
-    height: 3px;
-    margin-top: 48px;
-    margin-left: 42px;
-    position: absolute;
-    background-color: pink;
-}
-
-.c-color-32 {
-    width: 3px;
-    height: 3px;
-    margin-top: 48px;
-    margin-left: 39px;
-    position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-33 {
-    width: 3px;
+    width: 12px;
     height: 3px;
     margin-top: 48px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-34 {
@@ -1595,7 +1536,7 @@
     margin-top: 36px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .c-color-35 {
@@ -1604,7 +1545,7 @@
     margin-top: 27px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .c-color-36 {
@@ -1613,7 +1554,7 @@
     margin-top: 24px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .c-color-37 {
@@ -1622,7 +1563,7 @@
     margin-top: 27px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .c-color-38 {
@@ -1631,7 +1572,7 @@
     margin-top: 36px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .c-color-39 {
@@ -1640,7 +1581,7 @@
     margin-top: 48px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .c-color-40 {
@@ -1649,7 +1590,7 @@
     margin-top: 24px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .c-color-41 {
@@ -1658,7 +1599,7 @@
     margin-top:12px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc544b;
 }
 
 .d-blocks-wrapper {
@@ -3348,6 +3289,429 @@
     margin-left: 24px;
     position: absolute;
     background-color: black;
+}
+
+.g-color-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 59px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 83px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 95px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 104px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 107px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 104px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-7 {
+    width: 12px;
+    height: 15px;
+    margin-top: 116px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-8 {
+    width: 6px;
+    height: 9px;
+    margin-top: 131px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 131px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 131px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-11 {
+    width: 6px;
+    height: 12px;
+    margin-top: 128px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 119px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 119px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 131px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 143px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 152px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 155px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 152px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 143px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 131px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-21 {
+    width: 12px;
+    height: 24px;
+    margin-top: 107px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-22 {
+    width: 12px;
+    height: 36px;
+    margin-top: 71px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-23 {
+    width: 12px;
+    height: 24px;
+    margin-top: 47px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-24 {
+    width: 12px;
+    height: 12px;
+    margin-top: 35px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 23px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-26 {
+    width: 12px;
+    height: 12px;
+    margin-top: 23px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-27 {
+    width: 12px;
+    height: 12px;
+    margin-top: 26px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-28 {
+    width: 12px;
+    height: 12px;
+    margin-top: 23px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-29 {
+    width: 12px;
+    height: 12px;
+    margin-top: 26px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-30 {
+    width: 12px;
+    height: 12px;
+    margin-top: 35px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-31 {
+    width: 12px;
+    height: 12px;
+    margin-top: 47px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-32 {
+    width: 12px;
+    height: 12px;
+    margin-top: 47px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-33 {
+    width: 12px;
+    height: 12px;
+    margin-top: 59px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-34 {
+    width: 12px;
+    height: 12px;
+    margin-top: 71px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-35 {
+    width: 12px;
+    height: 12px;
+    margin-top: 83px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-36 {
+    width: 12px;
+    height: 12px;
+    margin-top: 71px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-37 {
+    width: 12px;
+    height: 12px;
+    margin-top: 59px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-38 {
+    width: 12px;
+    height: 12px;
+    margin-top: 71px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-39 {
+    width: 12px;
+    height: 12px;
+    margin-top: 59px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-40 {
+    width: 6px;
+    height: 9px;
+    margin-top: 50px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-41 {
+    width: 6px;
+    height: 9px;
+    margin-top: 50px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-42 {
+    width: 6px;
+    height: 9px;
+    margin-top: 83px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-43 {
+    width: 6px;
+    height: 9px;
+    margin-top: 83px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-44 {
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-45 {
+    width: 6px;
+    height: 6px;
+    margin-top: 0px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-46 {
+    width: 6px;
+    height: 6px;
+    margin-top: 113px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.g-color-47 {
+    width: 12px;
+    height: 12px;
+    margin-top: 131px;
+    margin-left: 90px;
+    position: absolute;
+    background-color: pink;
 }
 
 .h-blocks-wrapper {
@@ -7030,7 +7394,7 @@
     margin-top: 150px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc4157;
 }
 
 .lparenthesis-color-2 {
@@ -7039,7 +7403,7 @@
     margin-top: 150px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc2f98;
 }
 
 .lparenthesis-color-3 {
@@ -7048,7 +7412,7 @@
     margin-top: 138px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .lparenthesis-color-4 {
@@ -7057,7 +7421,7 @@
     margin-top: 126px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .lparenthesis-color-5 {
@@ -7066,7 +7430,7 @@
     margin-top: 132px;
     margin-left: 51px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .lparenthesis-color-6 {
@@ -7075,7 +7439,7 @@
     margin-top: 120px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .lparenthesis-color-7 {
@@ -7084,7 +7448,7 @@
     margin-top: 108px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .lparenthesis-color-8 {
@@ -7093,7 +7457,7 @@
     margin-top: 96px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .lparenthesis-color-9 {
@@ -7102,7 +7466,7 @@
     margin-top: 84px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .lparenthesis-color-10 {
@@ -7111,7 +7475,7 @@
     margin-top: 72px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .lparenthesis-color-11 {
@@ -7120,7 +7484,7 @@
     margin-top: 60px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .lparenthesis-color-12 {
@@ -7129,7 +7493,7 @@
     margin-top: 108px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .lparenthesis-color-13 {
@@ -7138,7 +7502,7 @@
     margin-top: 96px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .lparenthesis-color-14 {
@@ -7147,7 +7511,7 @@
     margin-top: 84px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .lparenthesis-color-15 {
@@ -7156,7 +7520,7 @@
     margin-top: 72px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .lparenthesis-color-16 {
@@ -7165,7 +7529,7 @@
     margin-top: 60px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .lparenthesis-color-17 {
@@ -7174,7 +7538,7 @@
     margin-top: 48px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .lparenthesis-color-18 {
@@ -7183,7 +7547,7 @@
     margin-top: 42px;
     margin-left: 57px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .lparenthesis-color-29 {
@@ -7192,7 +7556,7 @@
     margin-top: 42px;
     margin-left: 51px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .lparenthesis-color-30 {
@@ -7201,7 +7565,7 @@
     margin-top: 54px;
     margin-left: 69px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .lparenthesis-color-19 {
@@ -7210,7 +7574,7 @@
     margin-top: 30px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .lparenthesis-color-20 {
@@ -7219,7 +7583,7 @@
     margin-top: 18px;
     margin-left: 60px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .lparenthesis-color-21 {
@@ -7228,7 +7592,7 @@
     margin-top: 18px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .lparenthesis-color-22 {
@@ -7237,7 +7601,7 @@
     margin-top: 24px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .lparenthesis-color-23 {
@@ -7246,7 +7610,7 @@
     margin-top: 36px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .lparenthesis-color-24 {
@@ -7255,7 +7619,7 @@
     margin-top: 48px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .lparenthesis-color-25 {
@@ -7264,7 +7628,7 @@
     margin-top: 120px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .lparenthesis-color-26 {
@@ -7273,7 +7637,7 @@
     margin-top: 132px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .lparenthesis-color-27 {
@@ -7282,7 +7646,7 @@
     margin-top: 144px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc2f98;
 }
 
 .lparenthesis-color-28 {
@@ -7291,7 +7655,7 @@
     margin-top: 144px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .lparenthesis-color-31 {
@@ -7300,7 +7664,7 @@
     margin-top: 0px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .lparenthesis-color-32 {
@@ -7309,7 +7673,7 @@
     margin-top: 162px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .rparenthesis-blocks-wrapper {
@@ -7387,7 +7751,7 @@
     margin-top: 138px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .rparenthesis-color-2 {
@@ -7396,7 +7760,7 @@
     margin-top: 138px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc4157;
 }
 
 .rparenthesis-color-3 {
@@ -7405,7 +7769,7 @@
     margin-top: 132px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc2f98;
 }
 
 .rparenthesis-color-4 {
@@ -7414,7 +7778,7 @@
     margin-top: 120px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .rparenthesis-color-5 {
@@ -7423,7 +7787,7 @@
     margin-top: 108px;
     margin-left: 51px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .rparenthesis-color-6 {
@@ -7432,7 +7796,7 @@
     margin-top: 96px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .rparenthesis-color-7 {
@@ -7441,7 +7805,7 @@
     margin-top: 84px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .rparenthesis-color-8 {
@@ -7450,7 +7814,7 @@
     margin-top: 72px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .rparenthesis-color-9 {
@@ -7459,7 +7823,7 @@
     margin-top: 60px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .rparenthesis-color-10 {
@@ -7468,7 +7832,7 @@
     margin-top: 48px;
     margin-left: 54px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .rparenthesis-color-11 {
@@ -7477,7 +7841,7 @@
     margin-top: 36px;
     margin-left: 51px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .rparenthesis-color-12 {
@@ -7486,7 +7850,7 @@
     margin-top: 24px;
     margin-left: 45px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .rparenthesis-color-13 {
@@ -7495,7 +7859,7 @@
     margin-top: 12px;
     margin-left: 36px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .rparenthesis-color-14 {
@@ -7504,7 +7868,7 @@
     margin-top: 126px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc37f0;
 }
 
 .rparenthesis-color-15 {
@@ -7513,7 +7877,7 @@
     margin-top: 114px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #f46cfc;
 }
 
 .rparenthesis-color-16 {
@@ -7522,7 +7886,7 @@
     margin-top: 120px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .rparenthesis-color-17 {
@@ -7531,7 +7895,7 @@
     margin-top: 108px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #edaffd;
 }
 
 .rparenthesis-color-18 {
@@ -7540,7 +7904,7 @@
     margin-top: 96px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #f2dcfe;
 }
 
 .rparenthesis-color-19 {
@@ -7549,7 +7913,7 @@
     margin-top: 84px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #e4e2fe;
 }
 
 .rparenthesis-color-20 {
@@ -7558,7 +7922,7 @@
     margin-top: 72px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .rparenthesis-color-21 {
@@ -7567,7 +7931,7 @@
     margin-top: 60px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .rparenthesis-color-22 {
@@ -7576,7 +7940,7 @@
     margin-top: 48px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .rparenthesis-color-23 {
@@ -7585,7 +7949,7 @@
     margin-top: 36px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .rparenthesis-color-24 {
@@ -7594,7 +7958,7 @@
     margin-top: 30px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .rparenthesis-color-25 {
@@ -7603,7 +7967,7 @@
     margin-top: 30px;
     margin-left: 15px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .rparenthesis-color-26 {
@@ -7612,7 +7976,7 @@
     margin-top: 24px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .rparenthesis-color-27 {
@@ -7621,7 +7985,7 @@
     margin-top: 18px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .rparenthesis-color-28 {
@@ -7630,7 +7994,7 @@
     margin-top: 6px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .rparenthesis-color-29 {
@@ -7639,7 +8003,7 @@
     margin-top: 6px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .rparenthesis-color-30 {
@@ -7648,7 +8012,7 @@
     margin-top: 0px;
     margin-left: 48px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .rparenthesis-color-31 {
@@ -7657,7 +8021,7 @@
     margin-top: 30px;
     margin-left: 63px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .rparenthesis-color-32 {
@@ -7666,7 +8030,7 @@
     margin-top: 24px;
     margin-left: 69px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc544b;
 }
 
 .rparenthesis-color-33 {
@@ -7675,7 +8039,7 @@
     margin-top: 150px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-blocks-wrapper {
@@ -7717,7 +8081,7 @@
     margin-top: 12px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .apostrophe-color-2 {
@@ -7726,7 +8090,7 @@
     margin-top: 12px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .apostrophe-color-3 {
@@ -7735,7 +8099,7 @@
     margin-top: 12px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #4535fb;
 }
 
 .apostrophe-color-4 {
@@ -7744,7 +8108,7 @@
     margin-top: 24px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #1057fb;
 }
 
 .apostrophe-color-5 {
@@ -7753,7 +8117,7 @@
     margin-top: 36px;
     margin-left: 30px;
     position: absolute;
-    background-color: pink;
+    background-color: #429cfc;
 }
 
 .apostrophe-color-6 {
@@ -7762,7 +8126,7 @@
     margin-top: 45px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .apostrophe-color-7 {
@@ -7771,7 +8135,7 @@
     margin-top: 42px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #72defd;
 }
 
 .apostrophe-color-8 {
@@ -7780,7 +8144,7 @@
     margin-top: 30px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .apostrophe-color-9 {
@@ -7789,7 +8153,7 @@
     margin-top: 24px;
     margin-left: 6px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .apostrophe-color-10 {
@@ -7798,7 +8162,7 @@
     margin-top: 24px;
     margin-left: 12px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .apostrophe-color-11 {
@@ -7807,7 +8171,7 @@
     margin-top: 36px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-color-12 {
@@ -7816,7 +8180,7 @@
     margin-top: 39px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-color-13 {
@@ -7825,7 +8189,7 @@
     margin-top: 42px;
     margin-left: 18px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-color-14 {
@@ -7834,7 +8198,7 @@
     margin-top: 36px;
     margin-left: 21px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-color-15 {
@@ -7843,7 +8207,7 @@
     margin-top: 42px;
     margin-left: 27px;
     position: absolute;
-    background-color: pink;
+    background-color: #4ac3fc;
 }
 
 .apostrophe-color-16 {
@@ -7852,7 +8216,7 @@
     margin-top: 6px;
     margin-left: 42px;
     position: absolute;
-    background-color: pink;
+    background-color: #cfe1fe;
 }
 
 .apostrophe-color-17 {
@@ -7861,7 +8225,7 @@
     margin-top: 0px;
     margin-left: 24px;
     position: absolute;
-    background-color: pink;
+    background-color: #b1e6fe;
 }
 
 .apostrophe-color-18 {
@@ -7870,5 +8234,5 @@
     margin-top: 54px;
     margin-left: 0px;
     position: absolute;
-    background-color: pink;
+    background-color: #fc2f98;
 }

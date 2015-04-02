@@ -90,6 +90,7 @@ $(".band-button").toggleClass("current");
 $(".band-button").appendClass("current");
 $(".band-button").prependClass("current");
 //append adds to the end, prepend adds to the beginning//
+//you don't need to use a period before the name of the class because it's already established that it's a class//
 
 
 
@@ -123,3 +124,18 @@ $(".course-info").mousemove(function(); {
 $(".course-info").mouseenter(function(); {
 $(".course-info").mouseleave(function(); {
 //very subtle, but they determine when the change happens within the process of clicking/releasing/hovering//
+
+
+
+$("#toggle").click(function() {
+	$("#status").html("GO").css("background-color", "green");
+    $("toggle").html ("STOP");
+});
+
+
+
+$("#toggle").click(function() {
+	$("#status").html("GO").css("background-color", "green");
+    $(this).html ("STOP");
+});
+//"this" refers to the parent target, it's a reserved word//
