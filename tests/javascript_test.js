@@ -148,8 +148,166 @@ for (var multiplier = 1; multiplier <= 10; multiplier++) {
     for (var i = 0)
 }
 
+
+
 for (var i = 0; i < 21; i++) {
     star = star + "*";
     console.log(star);
 }
 //  "i" is a common variable name, it's short for increment    //
+
+
+
+
+
+____________
+
+
+
+
+
+
+
+for (var multiplier = 1; multiplier <= 20; multiplier++) {
+console.log (multiplier*2);
+var atmark = "@";
+for (var i = 20; i <=100; i++) {
+atmark = atmark + "*";
+}
+}
+
+for (var multiplier = 1; multiplier <= 10; multiplier++) {
+    console.log(multiplier + 10);
+    var star = "*";
+}
+
+
+for (var multiplier = 1; multiplier <= 10; multiplier++) {
+    console.log(multiplier + 10);
+    var star = "*";
+for (var i = 2; 1 <= 10; i--) {
+star = star + "*";
+console.log(star);
+}
+}
+
+
+
+
+
+console.log("hello world");
+ 
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier*6);
+	var star = "*";
+	for (var i = 0; i < 20; i++) {
+		star = star + "*";
+		console.log(star);
+	}
+}
+
+
+
+__________
+
+
+
+console.log("hello world");
+ 
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier*6);
+	var star;
+	for (var i = 0; i < 20; i++) {
+		star = "*";
+		console.log(star);
+	}
+}
+
+
+
+__________
+
+
+
+console.log("hello world");
+ 
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier*6);
+	var star = "*";
+	for (var i = 0; i < 20; i++) {
+		console.log(star);
+	}
+}
+
+
+
+__________
+
+
+
+
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier*6);
+	var star = "*";
+	for (var i = 0; i < 20; i++) {
+		star = star + "*";
+		console.log(star);
+	}
+}
+
+
+
+_______
+
+
+    
+console.log("hello world");
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier);
+	var mountain = "^";
+	for (var i = 0; i < 3; i++) {
+	mountain = mountain + "^";
+	console.log(mountain);
+	}
+}
+	
+	
+
+console.log("hello world");
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier*6);
+	var star = "*";
+	for (var i = 0; i < 20; i++) {
+		star = star + "*";
+		console.log(star);
+	}
+}
+
+
+
+_______
+
+
+    
+console.log("hello world");
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier);
+	var mountain = "^";
+	for (var i = 10; i < 100; i++) {
+	mountain = mountain + "^";
+	console.log(mountain);
+	}
+}
+
+
+
+console.log("blast-off!!!");
+for (var multiplier = 1; multiplier < 11; multiplier++) {
+	console.log(multiplier);
+	var mountain = "^";
+	for (var i = 0; i < 11; i++) {
+	mountain = mountain + "^";
+	console.log(mountain);
+	}
+}
+console.log("t-minus");

@@ -8,6 +8,7 @@
 .a-blocks-wrapper {
     width: 117px;
     height: 114px;
+    margin-bottom: 60px;
 }
 
 .a-block-1 {
@@ -670,6 +671,7 @@
 .b-blocks-wrapper {
     width: 102px;
     height: 153px;
+    margin-bottom: 60px;
 }
 
 .b-block-1 {
@@ -780,9 +782,415 @@
     background-color: black;
 }
 
+.b-color-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 135px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 135px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-6 {
+    width: 12px;
+    height: 24px;
+    margin-top: 90px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-12 {
+    width: 12px;
+    height: 36px;
+    margin-top: 21px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 9px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-16 {
+    width: 12px;
+    height: 96px;
+    margin-top: 18px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-21 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-22 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-23 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-24 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-26 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-27 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-28 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-29 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-30 {
+    width: 6px;
+    height: 6px;
+    margin-top: 114px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-31 {
+    width: 6px;
+    height: 6px;
+    margin-top: 114px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-32 {
+    width: 6px;
+    height: 6px;
+    margin-top: 84px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-33 {
+    width: 6px;
+    height: 6px;
+    margin-top: 84px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-34 {
+    width: 3px;
+    height: 3px;
+    margin-top: 81px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-35 {
+    width: 3px;
+    height: 3px;
+    margin-top: 81px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-36 {
+    width: 3px;
+    height: 3px;
+    margin-top: 81px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-37 {
+    width: 3px;
+    height: 3px;
+    margin-top: 81px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-38 {
+    width: 3px;
+    height: 3px;
+    margin-top: 120px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-39 {
+    width: 3px;
+    height: 3px;
+    margin-top: 120px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-40 {
+    width: 3px;
+    height: 3px;
+    margin-top: 120px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-41 {
+    width: 3px;
+    height: 3px;
+    margin-top: 120px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-42 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 90px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-43 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-44 {
+    width: 6px;
+    height: 6px;
+    margin-top: 0px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.b-color-45 {
+    width: 6px;
+    height: 6px;
+    margin-top: 147px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
 .c-blocks-wrapper {
     width: 84px;
     height: 108px;
+    margin-bottom: 60px;
 }
 
 .c-block-1 {
@@ -884,9 +1292,379 @@
     background-color: black;
 }
 
+.c-color-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 60px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-10 {
+    width: 12px;
+    height: 36px;
+    margin-top: 48px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-11 {
+    width: 12px;
+    height: 24px;
+    margin-top: 60px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-18 {
+    width: 6px;
+    height: 6px;
+    margin-top: 87px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-19 {
+    width: 6px;
+    height: 6px;
+    margin-top: 87px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-20 {
+    width: 6px;
+    height: 6px;
+    margin-top: 87px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-21 {
+    width: 6px;
+    height: 6px;
+    margin-top: 87px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-22 {
+    width: 6px;
+    height: 6px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-23 {
+    width: 6px;
+    height: 6px;
+    margin-top: 72px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-24 {
+    width: 6px;
+    height: 6px;
+    margin-top: 66px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-25 {
+    width: 6px;
+    height: 6px;
+    margin-top: 60px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-26 {
+    width: 3px;
+    height: 3px;
+    margin-top: 93px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-27 {
+    width: 3px;
+    height: 3px;
+    margin-top: 93px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-28 {
+    width: 3px;
+    height: 3px;
+    margin-top: 93px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-29 {
+    width: 3px;
+    height: 3px;
+    margin-top: 93px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-30 {
+    width: 3px;
+    height: 3px;
+    margin-top: 48px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-31 {
+    width: 3px;
+    height: 3px;
+    margin-top: 48px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-32 {
+    width: 3px;
+    height: 3px;
+    margin-top: 48px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-33 {
+    width: 3px;
+    height: 3px;
+    margin-top: 48px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-34 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-35 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-36 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-37 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-38 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-39 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-40 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.c-color-41 {
+    width: 6px;
+    height: 6px;
+    margin-top:12px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
 .d-blocks-wrapper {
     width: 102px;
     height: 156px;
+    margin-bottom: 60px;
 }
 
 .d-block-1 {
@@ -997,9 +1775,442 @@
     background-color: black;
 }
 
+.d-color-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-6 {
+    width: 12px;
+    height: 36px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 15px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 3px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 0px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-10 {
+    width: 12px;
+    height: 108px;
+    margin-top: 0px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 129px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 129px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 144px;
+    margin-left: 84px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-21 {
+    width: 6px;
+    height: 6px;
+    margin-top: 27px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-22 {
+    width: 6px;
+    height: 6px;
+    margin-top: 126px;
+    margin-left: 96px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-23 {
+    width: 12px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-24 {
+    width: 12px;
+    height: 12px;
+    margin-top: 93px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-26 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-27 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-28 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-29 {
+    width: 6px;
+    height: 6px;
+    margin-top: 111px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-30 {
+    width: 6px;
+    height: 6px;
+    margin-top: 111px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-31 {
+    width: 6px;
+    height: 6px;
+    margin-top: 102px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-32 {
+    width: 6px;
+    height: 6px;
+    margin-top: 96px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-33 {
+    width: 6px;
+    height: 6px;
+    margin-top: 90px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-34 {
+    width: 6px;
+    height: 6px;
+    margin-top: 84px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-35 {
+    width: 6px;
+    height: 6px;
+    margin-top: 102px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-36 {
+    width: 6px;
+    height: 6px;
+    margin-top: 96px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-37 {
+    width: 6px;
+    height: 6px;
+    margin-top: 90px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-38 {
+    width: 6px;
+    height: 6px;
+    margin-top: 84px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-39 {
+    width: 6px;
+    height: 6px;
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-40 {
+    width: 6px;
+    height: 6px;
+    margin-top: 75px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-41 {
+    width: 3px;
+    height: 3px;
+    margin-top: 72px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-42 {
+    width: 3px;
+    height: 3px;
+    margin-top: 72px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-43 {
+    width: 3px;
+    height: 3px;
+    margin-top: 72px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-44 {
+    width: 3px;
+    height: 3px;
+    margin-top: 72px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-45 {
+    width: 3px;
+    height: 3px;
+    margin-top: 117px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-46 {
+    width: 3px;
+    height: 3px;
+    margin-top: 117px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-47 {
+    width: 3px;
+    height: 3px;
+    margin-top: 117px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.d-color-48 {
+    width: 3px;
+    height: 3px;
+    margin-top: 117px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
 .e-blocks-wrapper {
     width: 84px;
     height: 123px;
+    margin-bottom: 60px;
 }
 
 .e-block-1 {
@@ -1113,6 +2324,7 @@
 .f-blocks-wrapper {
     width: 102px;
     height: 165px;
+    margin-bottom: 60px;
 }
 
 .f-block-1 {
@@ -1181,6 +2393,7 @@
 .g-blocks-wrapper {
     width: 102px;
     height: 171px;
+    margin-bottom: 60px;
 }
 
 .g-block-1 {
@@ -1339,6 +2552,7 @@
 .h-blocks-wrapper {
     width: 102px;
     height: 156px;
+    margin-bottom: 60px;
 }
 
 .h-block-1 {
@@ -1407,6 +2621,7 @@
 .i-blocks-wrapper {
     width: 66px;
     height: 150px;
+    margin-bottom: 60px;
 }
 
 .i-block-1 {
@@ -1431,6 +2646,7 @@
 .j-blocks-wrapper {
     width: 102px;
     height: 192px;
+    margin-bottom: 60px;
 }
 
 .j-block-1 {
@@ -1499,6 +2715,7 @@
 .k-blocks-wrapper {
     width: 108px;
     height: 168px;
+    margin-bottom: 60px;
 }
 
 .k-block-1 {
@@ -1585,6 +2802,7 @@
 .l-blocks-wrapper {
     width: 66px;
     height: 168px;
+    margin-bottom: 60px;
 }
 
 .l-block-1 {
@@ -1599,6 +2817,7 @@
 .m-blocks-wrapper {
     width: 147px;
     height: 126px;
+    margin-bottom: 60px;
 }
 
 .m-block-1 {
@@ -1721,6 +2940,7 @@
 .n-blocks-wrapper {
     width: 105px;
     height: 126px;
+    margin-bottom: 60px;
 }
 
 .n-block-1 {
@@ -1789,6 +3009,7 @@
 .o-blocks-wrapper {
     width: 102px;
     height: 108px;
+    margin-bottom: 60px;
 }
 
 .o-block-1 {
@@ -1902,6 +3123,7 @@
 .p-blocks-wrapper {
     width: 108px;
     height: 174px;
+    margin-bottom: 60px;
 }
 
 .p-block-1 {
@@ -2015,6 +3237,7 @@
 .q-blocks-wrapper {
     width: 114px;
     height: 183px;
+    margin-bottom: 60px;
 }
 
 .q-block-1 {
@@ -2128,6 +3351,7 @@
 .r-blocks-wrapper {
     width: 111px;
     height: 138px;
+    margin-bottom: 60px;
 }
 
 .r-block-1 {
@@ -2187,6 +3411,7 @@
 .s-blocks-wrapper {
     width: 96px;
     height: 108px;
+    margin-bottom: 60px;
 }
 
 .s-block-1 {
@@ -2327,6 +3552,7 @@
 .t-blocks-wrapper {
     width: 102px;
     height: 162px;
+    margin-bottom: 60px;
 }
 
 .t-block-1 {
@@ -2368,6 +3594,7 @@
 .u-blocks-wrapper {
     width: 114px;
     height: 126px;
+    margin-bottom: 60px;
 }
 
 .u-block-1 {
@@ -2436,6 +3663,7 @@
 .v-blocks-wrapper {
     width: 87px;
     height: 123px;
+    margin-bottom: 60px;
 }
 
 .v-block-1 {
@@ -2558,6 +3786,7 @@
 .w-blocks-wrapper {
     width: 159px;
     height: 135px;
+    margin-bottom: 60px;
 }
 
 .w-block-1 {
@@ -2788,6 +4017,7 @@
 .x-blocks-wrapper {
     width: 108px;
     height: 132px;
+    margin-bottom: 60px;
 }
 
 .x-block-1 {
@@ -2910,6 +4140,7 @@
 .y-blocks-wrapper {
     width: 105px;
     height: 156px;
+    margin-bottom: 60px;
 }
 
 .y-block-1 {
@@ -3068,6 +4299,7 @@
 .z-blocks-wrapper {
     width: 96px;
     height: 138px;
+    margin-bottom: 60px;
 }
 
 .z-block-1 {
@@ -3154,6 +4386,7 @@
 .one-blocks-wrapper {
     width: 72px;
     height: 150px;
+    margin-bottom: 60px;
 }
 
 .one-block-1 {
@@ -3195,6 +4428,7 @@
 .two-blocks-wrapper {
     width: 105px;
     height: 129px;
+    margin-bottom: 60px;
 }
 
 .two-block-1 {
@@ -3326,6 +4560,7 @@
 .three-blocks-wrapper {
     width: 108px;
     height: 150px;
+    margin-bottom: 60px;
 }
 
 .three-block-1 {
@@ -3448,6 +4683,7 @@
 .four-blocks-wrapper {
     width: 108px;
     height: 156px;
+    margin-bottom: 60px;
 }
 
 .four-block-1 {
@@ -3525,6 +4761,7 @@
 .five-blocks-wrapper {
     width: 84px;
     height: 153px;
+    margin-bottom: 60px;
 }
 
 .five-block-1 {
@@ -3629,6 +4866,7 @@
 .six-blocks-wrapper {
     width: 96px;
     height: 153px;
+    margin-bottom: 60px;
 }
 
 .six-block-1 {
@@ -3742,6 +4980,7 @@
 .seven-blocks-wrapper {
     width: 96px;
     height: 144px;
+    margin-bottom: 60px;
 }
 
 .seven-block-1 {
@@ -3810,6 +5049,7 @@
 .eight-blocks-wrapper {
     width: 108px;
     height: 144px;
+    margin-bottom: 60px;
 }
 
 .eight-block-1 {
@@ -3950,6 +5190,7 @@
 .nine-blocks-wrapper {
     width: 114px;
     height: 144px;
+    margin-bottom: 60px;
 }
 
 .nine-block-1 {
@@ -4063,6 +5304,7 @@
 .zero-blocks-wrapper {
     width: 102px;
     height: 162px;
+    margin-bottom: 60px;
 }
 
 .zero-block-1 {
@@ -4140,6 +5382,7 @@
 .period-blocks-wrapper {
     width: 54px;
     height: 78px;
+    margin-bottom: 60px;
 }
 
 .period-block-1 {
@@ -4154,6 +5397,7 @@
 .comma-blocks-wrapper {
     width: 54px;
     height: 72px;
+    margin-bottom: 60px;
 }
 
 .comma-block-1 {
@@ -4177,6 +5421,7 @@
 .ldquo-blocks-wrapper {
     width: 72px;
     height: 72px;
+    margin-bottom: 60px;
 }
 
 .ldquo-block-1 {
@@ -4236,6 +5481,7 @@
 .rdquo-blocks-wrapper {
     width: 90px;
     height: 60px;
+    margin-bottom: 60px;
 }
 
 .rdquo-block-1 {
@@ -4295,6 +5541,7 @@
 .exclamation-blocks-wrapper {
     width: 72px;
     height: 174px;
+    margin-bottom: 60px;
 }
 
 .exclamation-block-1 {
@@ -4318,6 +5565,7 @@
 .question-blocks-wrapper {
     width: 93px;
     height: 186px;
+    margin-bottom: 60px;
 }
 
 .question-block-1 {
@@ -4440,6 +5688,7 @@
 .lparenthesis-blocks-wrapper {
     width: 81px;
     height: 168px;
+    margin-bottom: 60px;
 }
 
 .lparenthesis-block-1 {
@@ -4505,9 +5754,298 @@
     background-color: black;
 }
 
+.lparenthesis-color-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 150px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 150px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-5 {
+    width: 6px;
+    height: 6px;
+    margin-top: 132px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-29 {
+    width: 6px;
+    height: 6px;
+    margin-top: 42px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-30 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-21 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-22 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-23 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-24 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-26 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-27 {
+    width: 12px;
+    height: 12px;
+    margin-top: 144px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-28 {
+    width: 12px;
+    height: 12px;
+    margin-top: 144px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-31 {
+    width: 12px;
+    height: 12px;
+    margin-top: 0px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.lparenthesis-color-32 {
+    width: 6px;
+    height: 6px;
+    margin-top: 162px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
 .rparenthesis-blocks-wrapper {
     width: 75px;
     height: 156px;
+    margin-bottom: 60px;
 }
 
 .rparenthesis-block-1 {
@@ -4571,4 +6109,496 @@
     margin-left: 24px;
     position: absolute;
     background-color: black;
+}
+
+.rparenthesis-color-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-16 {
+    width: 6px;
+    height: 6px;
+    margin-top: 120px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-21 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-22 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-23 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-24 {
+    width: 6px;
+    height: 6px;
+    margin-top: 30px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-26 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-27 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-28 {
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-29 {
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-30 {
+    width: 12px;
+    height: 12px;
+    margin-top: 0px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-31 {
+    width: 6px;
+    height: 6px;
+    margin-top: 30px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-32 {
+    width: 6px;
+    height: 6px;
+    margin-top: 24px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: pink;
+}
+
+.rparenthesis-color-33 {
+    width: 6px;
+    height: 6px;
+    margin-top: 150px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-blocks-wrapper {
+    width: 48px;
+    height: 60px;
+    margin-bottom: 60px;
+}
+
+.apostrophe-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-block-2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-block-3 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-color-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-9 {
+    width: 6px;
+    height: 6px;
+    margin-top: 24px;
+    margin-left: 6px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-10 {
+    width: 6px;
+    height: 6px;
+    margin-top: 24px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-11 {
+    width: 3px;
+    height: 3px;
+    margin-top: 36px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-12 {
+    width: 3px;
+    height: 3px;
+    margin-top: 39px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-13 {
+    width: 3px;
+    height: 3px;
+    margin-top: 42px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-14 {
+    width: 3px;
+    height: 3px;
+    margin-top: 36px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-15 {
+    width: 3px;
+    height: 3px;
+    margin-top: 42px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-16 {
+    width: 6px;
+    height: 6px;
+    margin-top: 6px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-17 {
+    width: 6px;
+    height: 6px;
+    margin-top: 0px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: pink;
+}
+
+.apostrophe-color-18 {
+    width: 6px;
+    height: 6px;
+    margin-top: 54px;
+    margin-left: 0px;
+    position: absolute;
+    background-color: pink;
 }
