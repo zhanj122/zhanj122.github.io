@@ -19,7 +19,7 @@
     opacity: 1.0;
     background: url("../assets/b-color-web-resized.png");
     width: 99%;
-    height: 99%;
+    height: 98%;
     z-index: 0;
 }
 
@@ -34,7 +34,7 @@
 .d-color-wrapper {
     opacity: 1.0;
     background: url("../assets/d-color-web-resized.png");
-    width: 100%;
+    width: 99%;
     height: 100%;
     z-index: 0;
 }
@@ -518,7 +518,7 @@
 .b-block-1 {
     width: 12px;
     height: 120px;
-    margin-top: 15px;
+    margin-top: 16px;
     margin-left: 18px;
     position: absolute;
     background-color: black;
@@ -642,7 +642,7 @@
     width: 12px;
     height: 12px;
     margin-top: 36px;
-    margin-left: 18px;
+    margin-left: 17px;
     position: absolute;
     background-color: black;
 }
@@ -651,7 +651,7 @@
     width: 12px;
     height: 12px;
     margin-top: 72px;
-    margin-left: 18px;
+    margin-left: 17px;
     position: absolute;
     background-color: black;
 }
@@ -660,7 +660,7 @@
     width: 12px;
     height: 12px;
     margin-top: 27px;
-    margin-left: 24px;
+    margin-left: 23px;
     position: absolute;
     background-color: black;
 }
@@ -669,25 +669,25 @@
     width: 12px;
     height: 12px;
     margin-top: 81px;
-    margin-left: 24px;
+    margin-left: 23px;
     position: absolute;
     background-color: black;
 }
 
 .c-block-6 {
-    width: 12px;
+    width: 13px;
     height: 12px;
     margin-top: 24px;
-    margin-left: 36px;
+    margin-left: 35px;
     position: absolute;
     background-color: black;
 }
 
 .c-block-7 {
-    width: 12px;
+    width: 13px;
     height: 12px;
     margin-top: 84px;
-    margin-left: 36px;
+    margin-left: 35px;
     position: absolute;
     background-color: black;
 }
@@ -714,7 +714,7 @@
     width: 12px;
     height: 12px;
     margin-top: 36px;
-    margin-left: 54px;
+    margin-left: 53px;
     position: absolute;
     background-color: black;
 }
@@ -723,7 +723,7 @@
     width: 12px;
     height: 12px;
     margin-top: 72px;
-    margin-left: 54px;
+    margin-left: 53px;
     position: absolute;
     background-color: black;
 }
@@ -778,7 +778,7 @@
     width: 12px;
     height: 12px;
     margin-top: 72px;
-    margin-left: 54px;
+    margin-left: 53px;
     position: absolute;
     background-color: black;
 }
@@ -823,7 +823,7 @@
     width: 12px;
     height: 12px;
     margin-top: 108px;
-    margin-left: 54px;
+    margin-left: 53px;
     position: absolute;
     background-color: black;
 }
