@@ -287,6 +287,7 @@
     width: 84px;
     height: 108px;
     margin-top: 57px;
+    display: inline-block;
 }
 
 .c-color-wrapper {
@@ -400,6 +401,7 @@
     width: 102px;
     height: 156px;
     margin-top: 21px;
+    display: inline-block;
 }
 
 .d-color-wrapper {
@@ -522,6 +524,7 @@
     width: 84px;
     height: 123px;
     margin-top: 57px;
+    display: inline-block;
 }
 
 .e-color-wrapper {
@@ -643,6 +646,7 @@
 .f-blocks-wrapper {
     width: 102px;
     height: 165px;
+    display: inline-block;
 }
 
 .f-color-wrapper {
@@ -720,6 +724,7 @@
     width: 102px;
     height: 171px;
     margin-top: 42px;
+    display: inline-block;
 }
 
 .g-color-wrapper {
@@ -887,6 +892,7 @@
     width: 102px;
     height: 156px;
     margin-top: 9px;
+    display: inline-block;
 }
 
 .h-color-wrapper {
@@ -964,6 +970,7 @@
     width: 66px;
     height: 150px;
     margin-top: 21px;
+    display: inline-block;
 }
 
 .i-color-wrapper {
@@ -997,6 +1004,7 @@
     width: 102px;
     height: 192px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .j-color-wrapper {
@@ -1073,6 +1081,7 @@
 .k-blocks-wrapper {
     width: 108px;
     height: 168px;
+    display: inline-block;
 }
 
 .k-color-wrapper {
@@ -1167,6 +1176,7 @@
 .l-blocks-wrapper {
     width: 66px;
     height: 168px;
+    display: inline-block;
 }
 
 .l-color-wrapper {
@@ -1190,6 +1200,7 @@
     width: 147px;
     height: 126px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .m-color-wrapper {
@@ -1321,6 +1332,7 @@
     width: 105px;
     height: 126px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .n-color-wrapper {
@@ -1398,6 +1410,7 @@
     width: 102px;
     height: 92px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .o-color-wrapper {
@@ -1520,6 +1533,7 @@
     width: 108px;
     height: 174px;
     margin-top: 42px;
+    display: inline-block;
 }
 
 .p-color-wrapper {
@@ -1642,6 +1656,7 @@
     width: 114px;
     height: 183px;
     margin-top: 33px;
+    display: inline-block;
 }
 
 .q-color-wrapper {
@@ -1764,6 +1779,7 @@
     width: 111px;
     height: 138px;
     margin-top: 30px;
+    display: inline-block;
 }
 
 .r-color-wrapper {
@@ -1832,6 +1848,7 @@
     width: 96px;
     height: 108px;
     margin-top: 63px;
+    display: inline-block;
 }
 
 .s-color-wrapper {
@@ -1980,6 +1997,7 @@
 .t-blocks-wrapper {
     width: 102px;
     height: 162px;
+    display: inline-block;
 }
 
 .t-color-wrapper {
@@ -2030,6 +2048,7 @@
     width: 114px;
     height: 126px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .u-color-wrapper {
@@ -2107,6 +2126,7 @@
     width: 87px;
     height: 123px;
     margin-top: 54px;
+    display: inline-block;
 }
 
 .v-color-wrapper {
@@ -2238,6 +2258,7 @@
     width: 159px;
     height: 135px;
     margin-top: 36px;
+    display: inline-block;
 }
 
 .w-color-wrapper {
@@ -2477,6 +2498,7 @@
     width: 108px;
     height: 132px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .x-color-wrapper {
@@ -2608,6 +2630,7 @@
     width: 105px;
     height: 156px;
     margin-top: 54px;
+    display: inline-block;
 }
 
 .y-color-wrapper {
@@ -2775,6 +2798,7 @@
     width: 96px;
     height: 138px;
     margin-top: 48px;
+    display: inline-block;
 }
 
 .z-color-wrapper {
@@ -2870,6 +2894,7 @@
     width: 72px;
     height: 150px;
     margin-top: 12px;
+    display: inline-block;
 }
 
 .one-color-wrapper {
@@ -2920,6 +2945,7 @@
     width: 105px;
     height: 129px;
     margin-top: 15px;
+    display: inline-block;
 }
 
 .two-color-wrapper {
@@ -3060,6 +3086,7 @@
     width: 108px;
     height: 150px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .three-color-wrapper {
@@ -3191,6 +3218,7 @@
     width: 108px;
     height: 156px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .four-color-wrapper {
@@ -3277,6 +3305,7 @@
     width: 84px;
     height: 153px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .five-color-wrapper {
@@ -3389,6 +3418,7 @@
 .six-blocks-wrapper {
     width: 96px;
     height: 153px;
+    display: inline-block;
 }
 
 .six-color-wrapper {
@@ -3511,6 +3541,7 @@
     width: 96px;
     height: 144px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .seven-color-wrapper {
@@ -3588,6 +3619,7 @@
     width: 108px;
     height: 147px;
     margin-top: 9px;
+    display: inline-block;
 }
 
 .eight-color-wrapper {
@@ -3737,6 +3769,7 @@
     width: 114px;
     height: 144px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .nine-color-wrapper {
@@ -3859,6 +3892,7 @@
     width: 102px;
     height: 162px;
     margin-top: 18px;
+    display: inline-block;
 }
 
 .zero-color-wrapper {
@@ -3945,6 +3979,7 @@
     width: 54px;
     height: 78px;
     margin-top: 102px;
+    display: inline-block;
 }
 
 .period-color-wrapper {
@@ -3968,6 +4003,7 @@
     width: 54px;
     height: 72px;
     margin-top: 108px;
+    display: inline-block;
 }
 
 .comma-color-wrapper {
@@ -4000,6 +4036,7 @@
     width: 72px;
     height: 72px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .ldquo-color-wrapper {
@@ -4068,6 +4105,7 @@
     width: 90px;
     height: 60px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .rdquo-color-wrapper {
@@ -4136,6 +4174,7 @@
     width: 72px;
     height: 174px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .exclamation-color-wrapper {
@@ -4167,6 +4206,7 @@
 .question-blocks-wrapper {
     width: 93px;
     height: 162px;
+    display: inline-block;
 }
 
 .question-color-wrapper {
@@ -4297,6 +4337,7 @@
 .lparenthesis-blocks-wrapper {
     width: 81px;
     height: 168px;
+    display: inline-block;
 }
 
 .lparenthesis-color-wrapper {
@@ -4374,6 +4415,7 @@
     width: 75px;
     height: 156px;
     margin-top: 12px;
+    display: inline-block;
 }
 
 .rparenthesis-color-wrapper {
@@ -4451,6 +4493,7 @@
     width: 48px;
     height: 60px;
     margin-top: 6px;
+    display: inline-block;
 }
 
 .apostrophe-color-wrapper {
