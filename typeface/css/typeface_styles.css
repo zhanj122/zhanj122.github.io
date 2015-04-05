@@ -1187,7 +1187,7 @@
 .m-blocks-wrapper {
     width: 147px;
     height: 126px;
-    margin-bottom: 48px;
+    margin-top: 48px;
 }
 
 .m-color-wrapper {
@@ -1318,7 +1318,7 @@
 .n-blocks-wrapper {
     width: 105px;
     height: 126px;
-    margin-bottom: 48px;
+    margin-top: 48px;
 }
 
 .n-color-wrapper {
@@ -1517,7 +1517,7 @@
 .p-blocks-wrapper {
     width: 108px;
     height: 174px;
-    margin-bottom: 42px;
+    margin-top: 42px;
 }
 
 .p-color-wrapper {
@@ -4448,7 +4448,7 @@
 .apostrophe-blocks-wrapper {
     width: 48px;
     height: 60px;
-    margin-bottom: 6px;
+    margin-top: 6px;
 }
 
 .apostrophe-color-wrapper {
