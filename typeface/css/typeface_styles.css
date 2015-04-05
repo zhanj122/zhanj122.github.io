@@ -11,8 +11,8 @@
 
 .a-blocks-wrapper {
     width: 117px;
-    height: 114px;
-    margin-top: 66px;
+    height: 159px;
+    padding-top: 66px;
     opacity: 1.0;
     display: inline-block;
 }
@@ -162,8 +162,8 @@
 
 .b-blocks-wrapper {
     width: 102px;
-    height: 153px;
-    margin-top: 15px;
+    height: 210px;
+    padding-top: 15px;
     display: inline-block;
 }
 
@@ -285,8 +285,8 @@
 
 .c-blocks-wrapper {
     width: 84px;
-    height: 108px;
-    margin-top: 57px;
+    height: 168px;
+    padding-top: 57px;
     display: inline-block;
 }
 
@@ -399,8 +399,8 @@
 
 .d-blocks-wrapper {
     width: 102px;
-    height: 156px;
-    margin-top: 21px;
+    height: 204px;
+    padding-top: 21px;
     display: inline-block;
 }
 
@@ -523,7 +523,7 @@
 .e-blocks-wrapper {
     width: 84px;
     height: 123px;
-    margin-top: 57px;
+    padding-top: 57px;
     display: inline-block;
 }
 
