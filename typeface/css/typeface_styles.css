@@ -5,7 +5,9 @@
     font-size: 0;
 }
 
-.block { z-index: 1; }
+.block { 
+    z-index: 1; 
+}
 
 .a-blocks-wrapper {
     width: 117px;
