@@ -24,6 +24,7 @@
 .a-color-wrapper {
     opacity: 1.0;
     background: url("../assets/a-color.png");
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -172,8 +173,8 @@
 .b-color-wrapper {
     opacity: 1.0;
     background: url("../assets/b-color.png");
-    width: 99%;
-    height: 98%;
+    width: 100%;
+    height: 100%;
     z-index: 0;
 }
 
@@ -294,7 +295,7 @@
 .c-color-wrapper {
     opacity: 1.0;
     background: url("../assets/c-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -407,7 +408,7 @@
 .d-color-wrapper {
     opacity: 1.0;
     background: url("../assets/d-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -529,7 +530,7 @@
 .e-color-wrapper {
     opacity: 1.0;
     background: url("../assets/e-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -993,7 +994,7 @@
 .f-color-wrapper {
     opacity: 1.0;
     background: url("../assets/f-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -1530,7 +1531,7 @@
     opacity: 1.0;
     background: url("../assets/g-color.png");
     width: 100%;
-    height: 98%;
+    height: 100%;
     z-index: 0;
 }
 
@@ -1696,7 +1697,7 @@
 .h-color-wrapper {
     opacity: 1.0;
     background: url("../assets/h-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -1773,8 +1774,8 @@
 .i-color-wrapper {
     opacity: 1.0;
     background: url("../assets/i-color.png");
-    width: 99%;
-    height: 99%;
+    width: 100%;
+    height: 100%;
     z-index: 0;
 }
 
@@ -1806,8 +1807,8 @@
 .j-color-wrapper {
     opacity: 1.0;
     background: url("../assets/j-color.png");
-    width: 99%;
-    height: 99%;
+    width: 100%;
+    height: 100%;
     z-index: 0;
 }
 
@@ -1884,7 +1885,7 @@
     opacity: 1.0;
     background: url("../assets/k-color.png");
     width: 100%;
-    height: 99%;
+    height: 100%;
     z-index: 0;
 }
 
@@ -1978,7 +1979,7 @@
 .l-color-wrapper {
     opacity: 1.0;
     background: url("../assets/l-color.png");
-    width: 99%;
+    width: 100%;
     height: 100%;
     z-index: 0;
 }
@@ -2002,7 +2003,7 @@
     opacity: 1.0;
     background: url("../assets/m-color.png");
     width: 100%;
-    height: 99%;
+    height: 100%;
     z-index: 0;
 }
 
