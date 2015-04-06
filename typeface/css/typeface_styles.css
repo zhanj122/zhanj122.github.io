@@ -4582,20 +4582,40 @@
     background-color: black;
 }
 
+.ninety {
+    opacity: 0.9;
+}
+
 .eighty {
     opacity: 0.8;
+}
+
+.seventy {
+    opacity: 0.7;
 }
 
 .sixty {
     opacity: 0.6;
 }
 
+.fifty {
+    opacity: 0.5;
+}
+
 .forty {
     opacity: 0.4;
 }
 
+.thirty {
+    opacity: 0.3;
+}
+
 .twenty {
     opacity: 0.2;
+}
+
+.ten {
+    opacity: 0.1;
 }
 
 .space {
