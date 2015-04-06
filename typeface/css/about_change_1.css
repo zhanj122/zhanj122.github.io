@@ -4,18 +4,22 @@ body {
 }
 
 .left-wrapper {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 50%;
     position: fixed;
     background-color: red;
+    opacity: 1.0;
+    z-index: 2;
 }
 
 .right-wrapper {
-    width: 200px;
-    height: 200px;
-    margin-top: 200px;
+    width: 300px;
+    height: 50%;
+    margin-bottom: 50%px;
     position: fixed;
     background-color: red;
+    opacity: 1.0;
+    z-index: 2;
 }
 
 .stories-wrapper {
