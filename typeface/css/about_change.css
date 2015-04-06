@@ -4,22 +4,23 @@ body {
 }
 
 .left-wrapper {
-    width: 150px;
+    width: 100px;
+    height: 100px
+    position: fixed;
+    background-color: red;
+}
+
+.right-wrapper {
+    width: 100px;
     height: 100px;
-    float: left;
+    position: fixed;
     background-color: red;
 }
 
 .stories-wrapper {
-    margin-left: 50px;
-    margin-right: 50px;
-    width: 1100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 100px;
+    width: 900px;
     float: left;
-}
-
-.right-wrapper {
-    width: 150px;
-    height: 100px;
-    float: left;
-    background-color: red;
 }
