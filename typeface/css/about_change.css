@@ -4,20 +4,26 @@ body {
 }
 
 .left-wrapper {
-    width: 250px;
+    width: 150px;
     height: 100px;
     float: left;
     background-color: red;
 }
 
 .stories-wrapper {
+    margin-left: 100px;
+    margin-right: 100px;
     width: 1000px;
     float: left;
 }
 
 .right-wrapper {
-    width: 250px;
+    width: 150px;
     height: 100px;
     float: left;
     background-color: red;
+}
+
+.s-color-wrapper {
+    opacity: .4;
 }
