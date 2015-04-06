@@ -4581,3 +4581,26 @@
     position: absolute;
     background-color: black;
 }
+
+.eighty {
+    opacity: 0.8;
+}
+
+.sixty {
+    opacity: 0.6;
+}
+
+.forty {
+    opacity: 0.4;
+}
+
+.twenty {
+    opacity: 0.2;
+}
+
+.space {
+    width: 50px;
+    height: 225px;
+    display: inline-block;
+}
+
