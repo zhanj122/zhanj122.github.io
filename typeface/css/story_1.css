@@ -5,11 +5,11 @@ body {
 
 .stories-wrapper {
     margin: 0 auto;
+    float: left;
     width: 1450px;
     height: 8000px;
     position: absolute;
     margin-top: -1400px;
-    margin-left: -200px;
     top: 0;
     transform: scale(.6);
 }
@@ -20,7 +20,6 @@ body {
     left: 0px;
     position: fixed;
     z-index: 2;
-    background-color: white;
     color: blue;
     font-size: 28px;
     text-decoration: underline;
@@ -33,7 +32,6 @@ body {
     right: 0px;
     position: fixed;
     z-index: 2;
-    background-color: white;
     color: blue;
     font-size: 28px;
     text-align: right;
@@ -45,7 +43,7 @@ body {
     width: 100%;
     height: 200px;
     bottom: 0;
-    position: absolute;
+    position: fixed;
     background-color: blue;
     color: white;
 }
