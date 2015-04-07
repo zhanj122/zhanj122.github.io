@@ -13,6 +13,7 @@ body {
     color: blue;
     font-size: 28px;
     text-decoration: underline;
+    float: left;
 }
 
 .right-wrapper {
@@ -23,13 +24,14 @@ body {
     background-color: white;
     color: blue;
     font-size: 28px;
+    text-align: right;
     text-decoration: underline;
+    float: right;
 }
 
 .stories-wrapper {
-    margin-left: 100px;
     margin-right: 30px;
-    width: 1150px;
+    width: 1300px;
     height: 1050px;
     float: left;
     transform: scale(.6);
