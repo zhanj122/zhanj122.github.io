@@ -4,14 +4,14 @@ body {
 }
 
 .stories-wrapper {
+    margin: 0 auto;
     width: 1450px;
     height: 8000px;
-    transform: scale(.6);
-    margin: 0 auto;
+    position: absolute;
     margin-top: -1400px;
     margin-left: -200px;
-    position: absolute;
     top: 0;
+    transform: scale(.6);
 }
 
 .left-wrapper {
@@ -45,6 +45,7 @@ body {
     width: 100%;
     height: 200px;
     bottom: 0;
+    position: absolute;
     background-color: blue;
     color: white;
 }
