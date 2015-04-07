@@ -1,0 +1,4619 @@
+.all-blocks-wrapper {
+    height: 2000px;
+    float: left;
+    display: inline-block;
+    font-size: 0;
+}
+
+.block { 
+    z-index: 1; 
+}
+
+.a-blocks-wrapper {
+    width: 117px;
+    height: 159px;
+    padding-top: 66px;
+    opacity: 1.0;
+    display: inline-block;
+}
+
+.a-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/a-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.a-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 15px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-6 {
+    width: 12px;
+    height: 54px;
+    margin-top: 33px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-14 {
+    width: 24px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.a-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-blocks-wrapper {
+    width: 102px;
+    height: 210px;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.b-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/b-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.b-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 18px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 90px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.b-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-blocks-wrapper {
+    width: 84px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.c-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/c-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.c-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 48px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.c-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-blocks-wrapper {
+    width: 102px;
+    height: 204px;
+    padding-top: 21px;
+    display: inline-block;
+}
+
+.d-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/d-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.d-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 117px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 117px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.d-block-12 {
+    width: 12px;
+    height: 120px;
+    margin-top: 12px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-blocks-wrapper {
+    width: 84px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.e-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/e-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.e-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 48px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-2 {
+    width: 48px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.e-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-blocks-wrapper {
+    width: 102px;
+    height: 225px;
+    display: inline-block;
+}
+
+.f-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/f-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.f-block-1 {
+    width: 48px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-2 {
+    width: 12px;
+    height: 99px;
+    margin-top: 54px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.f-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-blocks-wrapper {
+    width: 102px;
+    height: 183px;
+    padding-top: 42px;
+    display: inline-block;
+}
+
+.g-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/g-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.g-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 63px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-12 {
+    width: 12px;
+    height: 96px;
+    margin-top: 39px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 135px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 144px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 144px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.g-block-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 135px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-blocks-wrapper {
+    width: 102px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.h-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/h-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.h-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 24px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 75px;
+    position: absolute;
+    background-color: black;
+}
+
+.h-block-7 {
+    width: 12px;
+    height: 48px;
+    margin-top: 96px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.i-blocks-wrapper {
+    width: 66px;
+    height: 204px;
+    padding-top: 21px;
+    display: inline-block;
+}
+
+.i-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/i-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.i-block-1 {
+    width: 12px;
+    height: 72px;
+    margin-top: 60px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+    
+}
+
+.i-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-blocks-wrapper {
+    width: 102px;
+    height: 216px;
+    padding-top: 6px;
+    display: inline-block;
+}
+
+.j-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/j-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.j-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 159px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 156px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 147px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-6 {
+    width: 12px;
+    height: 84px;
+    margin-top: 66px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.j-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-blocks-wrapper {
+    width: 108px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.k-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/k-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.k-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 123px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.k-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.l-blocks-wrapper {
+    width: 66px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.l-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/l-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.l-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 24px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-blocks-wrapper {
+    width: 147px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.m-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/m-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.m-block-1 {
+    width: 12px;
+    height: 72px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-7 {
+    width: 12px;
+    height: 48px;
+    margin-top: 48px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 75px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 81px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-10 {
+    width: 24px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 90px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 111px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 117px;
+    position: absolute;
+    background-color: black;
+}
+
+.m-block-13 {
+    width: 12px;
+    height: 48px;
+    margin-top: 48px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-blocks-wrapper {
+    width: 105px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.n-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/n-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.n-block-1 {
+    width: 12px;
+    height: 72px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.n-block-7 {
+    width: 12px;
+    height: 48px;
+    margin-top: 48px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-blocks-wrapper {
+    width: 102px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.o-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/o-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.o-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 48px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.o-block-12 {
+    width: 12px;
+    height: 24px;
+    margin-top: 48px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-blocks-wrapper {
+    width: 108px;
+    height: 174px;
+    padding-top: 51px;
+    display: inline-block;
+}
+
+.p-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/p-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.p-block-1 {
+    width: 12px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 54px;
+    margin-left: 84px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.p-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-blocks-wrapper {
+    width: 114px;
+    height: 183px;
+    padding-top: 42px;
+    display: inline-block;
+}
+
+.q-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/q-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.q-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-4 {
+    width: 12px;
+    height: 24px;
+    margin-top: 63px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.q-block-12 {
+    width: 12px;
+    height: 120px;
+    margin-top: 39px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-blocks-wrapper {
+    width: 111px;
+    height: 186px;
+    padding-top: 39px;
+    display: inline-block;
+}
+
+.r-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/r-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.r-block-1 {
+    width: 12px;
+    height: 72px;
+    margin-top: 42px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.r-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-blocks-wrapper {
+    width: 96px;
+    height: 159px;
+    padding-top: 66px;
+    display: inline-block;
+}
+
+.s-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/s-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.s-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 15px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-13 {
+    width: 24px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.s-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.t-blocks-wrapper {
+    width: 102px;
+    height: 222px;
+    padding-top: 3px;
+    display: inline-block;
+}
+
+.t-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/t-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.t-block-1 {
+    width: 48px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.t-block-2 {
+    width: 12px;
+    height: 108px;
+    margin-top: 30px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.t-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 135px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.t-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-blocks-wrapper {
+    width: 114px;
+    height: 174px;
+    padding-top: 51px;
+    display: inline-block;
+}
+
+.u-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/u-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.u-block-1 {
+    width: 12px;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.u-block-7 {
+    width: 12px;
+    height: 72px;
+    margin-top: 30px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-blocks-wrapper {
+    width: 87px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.v-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/v-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.v-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.v-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-blocks-wrapper {
+    width: 159px;
+    height: 186px;
+    padding-top: 39px;
+    display: inline-block;
+}
+
+.w-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/w-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.w-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 75px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 81px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 84px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 87px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 90px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-18 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 93px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-19 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 99px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-20 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 105px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-21 {
+    width: 12px;
+    height: 12px;
+    margin-top: 87px;
+    margin-left: 108px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-22 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 111px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-23 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 114px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-24 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 117px;
+    position: absolute;
+    background-color: black;
+}
+
+.w-block-25 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-blocks-wrapper {
+    width: 108px;
+    height: 174px;
+    margin-top: 51px;
+    display: inline-block;
+}
+
+.x-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/x-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.x-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 67px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.x-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-blocks-wrapper {
+    width: 105px;
+    height: 168px;
+    padding-top: 57px;
+    display: inline-block;
+}
+
+.y-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/y-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.y-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 57px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 96px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-15 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-16 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.y-block-17 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-blocks-wrapper {
+    width: 96px;
+    height: 174px;
+    padding-top: 51px;
+    display: inline-block;
+}
+
+.z-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/z-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.z-block-1 {
+    width: 60px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-2 {
+    width: 60px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.z-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-blocks-wrapper {
+    width: 72px;
+    height: 192px;
+    padding-top: 33px;
+    display: inline-block;
+}
+
+.one-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/one-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.one-block-1 {
+    width: 12px;
+    height: 84px;
+    margin-top: 24px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: black;
+}
+
+.one-block-4 {
+    width: 36px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-blocks-wrapper {
+    width: 105px;
+    height: 189px;
+    padding-top: 36px;
+    display: inline-block;
+}
+
+.two-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/two-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.two-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 21px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 63px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 69px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 81px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.two-block-14 {
+    width: 60px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-blocks-wrapper {
+    width: 108px;
+    height: 198px;
+    padding-top: 27px;
+    display: inline-block;
+}
+
+.three-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/three-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.three-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-5 {
+    width: 12px;
+    height: 24px;
+    margin-top: 44px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 62px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-7 {
+    width: 24px;
+    height: 12px;
+    margin-top: 71px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 80px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-9 {
+    width: 12px;
+    height: 24px;
+    margin-top: 86px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 110px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-11 {
+    width: 24px;
+    height: 12px;
+    margin-top: 113px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 110px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.three-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 98px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-blocks-wrapper {
+    width: 108px;
+    height: 198px;
+    padding-top: 27px;
+    display: inline-block;
+}
+
+.four-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/four-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.four-block-1 {
+    width: 60px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 63px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 54px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.four-block-8 {
+    width: 12px;
+    height: 96px;
+    margin-top: 30px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-blocks-wrapper {
+    width: 84px;
+    height: 198px;
+    padding-top: 27px;
+    display: inline-block;
+}
+
+.five-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/five-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.five-block-1 {
+    width: 12px;
+    height: 36px;
+    margin-top: 36px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-2 {
+    width: 48px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-3 {
+    width: 36px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 75px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 105px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-10 {
+    width: 24px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.five-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-blocks-wrapper {
+    width: 96px;
+    height: 204px;
+    padding-top: 21px;
+    display: inline-block;
+}
+
+.six-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/six-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.six-block-1 {
+    width: 12px;
+    height: 66px;
+    margin-top: 51px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 51px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-6 {
+    width: 12px;
+    height: 30px;
+    margin-top: 87px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-11 {
+    width: 24px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.six-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-blocks-wrapper {
+    width: 96px;
+    height: 198px;
+    padding-top: 27px;
+    display: inline-block;
+}
+
+.seven-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/seven-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.seven-block-1 {
+    width: 60px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 54px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 84px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.seven-block-7 {
+    width: 12px;
+    height: 30px;
+    margin-top: 96px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-blocks-wrapper {
+    width: 108px;
+    height: 195px;
+    padding-top: 30px;
+    display: inline-block;
+}
+
+.eight-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/eight-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.eight-block-1 {
+    width: 12px;
+    height: 24px;
+    margin-top: 42px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-3 {
+    width: 24px;
+    height: 12px;
+    margin-top: 27px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-5 {
+    width: 12px;
+    height: 24px;
+    margin-top: 42px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 60px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 69px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-11 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-12 {
+    width: 12px;
+    height: 24px;
+    margin-top: 84px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-14 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.eight-block-15 {
+    width: 24px;
+    height: 12px;
+    margin-top: 111px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-blocks-wrapper {
+    width: 114px;
+    height: 198px;
+    padding-top: 27px;
+    display: inline-block;
+}
+
+.nine-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/nine-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.nine-block-1 {
+    width: 24px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-4 {
+    width: 12px;
+    height: 30px;
+    margin-top: 45px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-5 {
+    width: 12px;
+    height: 66px;
+    margin-top: 45px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 72px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 66px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-11 {
+    width: 24px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.nine-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 99px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-blocks-wrapper {
+    width: 102px;
+    height: 204px;
+    padding-top: 21px;
+    display: inline-block;
+}
+
+.zero-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/zero-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.zero-block-1 {
+    width: 24px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 42px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-4 {
+    width: 12px;
+    height: 66px;
+    margin-top: 51px;
+    margin-left: 78px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-5 {
+    width: 12px;
+    height: 66px;
+    margin-top: 51px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 72px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.zero-block-8 {
+    width: 24px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.period-blocks-wrapper {
+    width: 54px;
+    height: 120px;
+    padding-top: 105px;
+    display: inline-block;
+}
+
+.period-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/period-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.period-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.comma-blocks-wrapper {
+    width: 54px;
+    height: 114px;
+    padding-top: 111px;
+    display: inline-block;
+}
+
+.comma-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/comma-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.comma-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.comma-block-2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 42px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-blocks-wrapper {
+    width: 72px;
+    height: 216px;
+    margin-top: 6px;
+    display: inline-block;
+}
+
+.ldquo-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/ldquo-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.ldquo-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-block-2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-block-3 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-block-5 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.ldquo-block-6 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-blocks-wrapper {
+    width: 90px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.rdquo-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/rdquo-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.rdquo-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-block-2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-block-3 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 27px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-block-5 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.rdquo-block-6 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.exclamation-blocks-wrapper {
+    width: 72px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.exclamation-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/exclamation-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.exclamation-block-1 {
+    width: 12px;
+    height: 96px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.exclamation-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-blocks-wrapper {
+    width: 93px;
+    height: 222px;
+    padding-top: 3px;
+    display: inline-block;
+}
+
+.question-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/question-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.question-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 45px;
+    margin-left: 12px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-4 {
+    width: 24px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 33px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 39px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-7 {
+    width: 12px;
+    height: 24px;
+    margin-top: 45px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-8 {
+    width: 12px;
+    height: 12px;
+    margin-top: 66px;
+    margin-left: 57px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-9 {
+    width: 12px;
+    height: 12px;
+    margin-top: 78px;
+    margin-left: 51px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-10 {
+    width: 12px;
+    height: 12px;
+    margin-top: 90px;
+    margin-left: 45px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-11 {
+    width: 12px;
+    height: 12px;
+    margin-top: 102px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-12 {
+    width: 12px;
+    height: 12px;
+    margin-top: 114px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.question-block-13 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 36px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-blocks-wrapper {
+    width: 81px;
+    height: 222px;
+    padding-top: 3px;
+    display: inline-block;
+}
+
+.lparenthesis-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/lparenthesis-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.lparenthesis-block-1 {
+    width: 12px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 30px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 48px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-4 {
+    width: 12px;
+    height: 12px;
+    margin-top: 30px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 132px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.lparenthesis-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 138px;
+    margin-left: 48px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-blocks-wrapper {
+    width: 75px;
+    height: 210px;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.rparenthesis-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/rparenthesis-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.rparenthesis-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 18px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-2 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-3 {
+    width: 12px;
+    height: 12px;
+    margin-top: 36px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-4 {
+    width: 12px;
+    height: 60px;
+    margin-top: 48px;
+    margin-left: 42px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-5 {
+    width: 12px;
+    height: 12px;
+    margin-top: 108px;
+    margin-left: 39px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-6 {
+    width: 12px;
+    height: 12px;
+    margin-top: 120px;
+    margin-left: 33px;
+    position: absolute;
+    background-color: black;
+}
+
+.rparenthesis-block-7 {
+    width: 12px;
+    height: 12px;
+    margin-top: 126px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-blocks-wrapper {
+    width: 48px;
+    height: 216px;
+    padding-top: 9px;
+    display: inline-block;
+}
+
+.apostrophe-color-wrapper {
+    opacity: 1.0;
+    background: url("../assets/apostrophe-color.png");
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.apostrophe-block-1 {
+    width: 12px;
+    height: 12px;
+    margin-top: 24px;
+    margin-left: 18px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-block-2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 36px;
+    margin-left: 24px;
+    position: absolute;
+    background-color: black;
+}
+
+.apostrophe-block-3 {
+    width: 6px;
+    height: 6px;
+    margin-top: 39px;
+    margin-left: 21px;
+    position: absolute;
+    background-color: black;
+}
+
+.ten {
+   opacity: 0.1;
+}
+
+.twenty {
+   opacity: 0.2;
+}
+
+.thirty {
+   opacity: 0.3;
+}
+
+.forty {
+   opacity: 0.4;
+}
+
+.fifty {
+   opacity: 0.5;
+}
+
+.sixty {
+   opacity: 0.6;
+}
+
+.seventy {
+   opacity: 0.7;
+}
+
+.eight {
+   opacity: 0.8;
+}
+
+.nine {
+    opacity: 0.9;
+}
