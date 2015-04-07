@@ -1,5 +1,6 @@
 body {
     margin: 0 auto;
+    position: absolute;
 }
 
 .stories-wrapper {
@@ -7,6 +8,10 @@ body {
     height: 8000px;
     transform: scale(.6);
     margin: 0 auto;
+    margin-top: -1400px;
+    margin-left: -200px;
+    position: absolute;
+    top: 0;
 }
 
 .left-wrapper {
@@ -45,6 +50,7 @@ body {
 }
 
 .space {
-    width: 50px;
+    width: 60px;
     height: 50px;
+    display: inline-block;
 }
