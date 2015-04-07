@@ -27,5 +27,8 @@ body {
     width: 700px;
     height: 1050px;
     float: left;
+}
+
+.text-wrapper {
     transform: scale(.6);
 }
