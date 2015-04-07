@@ -35,4 +35,5 @@ body {
     width: 1450px;
     height: 8000px;
     transform: scale(.6);
+    float: left;
 }
