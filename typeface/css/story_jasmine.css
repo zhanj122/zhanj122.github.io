@@ -8,6 +8,7 @@ body {
     height: 200px;
     position: fixed;
     background-color: red;
+    z-index: 2;
 }
 
 .right-wrapper {
@@ -16,6 +17,7 @@ body {
     margin-top: 200px;
     position: fixed;
     background-color: red;
+    z-index: 2;
 }
 
 .stories-wrapper {
