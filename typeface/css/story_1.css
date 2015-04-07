@@ -6,19 +6,24 @@ body {
 
 .left-wrapper {
     width: 150px;
-    height: 200px;
+    height: 150px;
     position: fixed;
-    background-color: red;
     z-index: 2;
+    background-color: white;
+    color: blue;
+    font-size: 28px;
+    text-decoration: underline;
 }
 
 .right-wrapper {
     width: 150px;
-    height: 200px;
-    margin-top: 200px;
+    height: 150px;
     position: fixed;
-    background-color: red;
     z-index: 2;
+    background-color: white;
+    color: blue;
+    font-size: 28px;
+    text-decoration: underline;
 }
 
 .stories-wrapper {
