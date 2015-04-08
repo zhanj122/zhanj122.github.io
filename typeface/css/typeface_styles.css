@@ -4582,80 +4582,40 @@
     background-color: black;
 }
 
-.five {
-   opacity: 0.05;
-}
-
 .ten {
    opacity: 0.1;
-}
-
-.fifteen {
-   opacity: 0.15;
 }
 
 .twenty {
    opacity: 0.2;
 }
 
-.twenty-five {
-   opacity: 0.25;
-}
-
 .thirty {
    opacity: 0.3;
-}
-
-.thirty-five {
-   opacity: 0.35;
 }
 
 .forty {
    opacity: 0.4;
 }
 
-.forty-five {
-   opacity: 0.45;
-}
-
 .fifty {
    opacity: 0.5;
-}
-
-.fifty-five {
-   opacity: 0.55;
 }
 
 .sixty {
    opacity: 0.6;
 }
 
-.sixty-five {
-   opacity: 0.65;
-}
-
 .seventy {
    opacity: 0.7;
-}
-
-.seventy-five {
-   opacity: 0.75;
 }
 
 .eighty {
    opacity: 0.8;
 }
 
-.eighty-five {
-   opacity: 0.85;
-}
-
 .ninety {
     opacity: 0.9;
-}
-
-.ninety-five {
-    opacity: 0.95;
 }
 
 .space {
