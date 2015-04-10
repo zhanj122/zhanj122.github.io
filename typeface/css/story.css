@@ -4,7 +4,7 @@ body {
 }
 
 .stories-wrapper {
-    margin-left: 60px;
+    margin-left: 70px;
 }
 
 .word-wrapper {
@@ -13,7 +13,7 @@ body {
 }
 
 .left-wrapper {
-    left: 3px;
+    left: 1px;
     position: fixed;
     z-index: 2;
     color: blue;
@@ -23,7 +23,7 @@ body {
 }
 
 .right-wrapper {
-    right: 3px;
+    right: 1px;
     position: fixed;
     z-index: 2;
     color: blue;
@@ -35,8 +35,8 @@ body {
 
 .car-accident {
     position: absolute;
-    margin-top: 45px;
-    margin-left: 25px;
+    margin-top: 400px;
+    margin-left: 945px;
 }
 
 .studying-abroad {
@@ -47,20 +47,20 @@ body {
 
 .capsicum {
     position: absolute;
-    margin-top: 45px;
-    margin-left: 25px;
+    margin-top: 155px;
+    margin-left: 705px;
 }
 
 .internship {
     position: absolute;
-    margin-bottom: 95px;
-    margin-right: 115px;
+    margin-left: 875px;
+    margin-top: 495px;
 }
 
 .columbia {
     position: absolute;
-    margin-top: 305px;
-    margin-left: 305px;
+    margin-left: 325px;
+    margin-top: 615px;
 }
 
 .trust {
@@ -71,26 +71,26 @@ body {
 
 .nyu-acceptance-letter {
     position: absolute;
-    margin-left: 400px;
-    margin-top: 350px;
+    margin-left: 335px;
+    margin-top: 355px;
 }
 
 .radiates {
     position: absolute;
-    margin-right: 85px;
+    margin-left: 960px;
     margin-top: 85px;
 }
 
 .new-house {
     position: absolute;
-    margin-right: 245px;
-    margin-bottom: 125px;
+    margin-left: 245px;
+    margin-top: 125px;
 }
 
 .abandoned-building {
     position: absolute;
-    margin-right: 500px;
-    margin-bottom: 300px;
+    margin-left: 90px;
+    margin-top: 450px;
 }
 
 .archive {
@@ -118,4 +118,5 @@ a:visited {
 
 .pulse:hover {
     transform: scale(1.1);
+    display: inline-block;
 }
