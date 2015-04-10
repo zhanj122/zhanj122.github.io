@@ -4,8 +4,7 @@ body {
 }
 
 .stories-wrapper {
-    margin: 0 auto;
-    width: 100%;
+    margin-left: 60px;
 }
 
 .word-wrapper {
@@ -14,7 +13,7 @@ body {
 }
 
 .left-wrapper {
-    left: 0px;
+    left: 3px;
     position: fixed;
     z-index: 2;
     color: blue;
@@ -24,7 +23,7 @@ body {
 }
 
 .right-wrapper {
-    right: 0px;
+    right: 3px;
     position: fixed;
     z-index: 2;
     color: blue;
