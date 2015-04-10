@@ -14,8 +14,6 @@ body {
 }
 
 .left-wrapper {
-    width: 150px;
-    height: 150px;
     left: 0px;
     position: fixed;
     z-index: 2;
@@ -26,8 +24,6 @@ body {
 }
 
 .right-wrapper {
-    width: 150px;
-    height: 150px;
     right: 0px;
     position: fixed;
     z-index: 2;
