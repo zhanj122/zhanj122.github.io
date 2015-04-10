@@ -64,3 +64,6 @@ a:visited {
     display: inline-block;
 }
 
+.pulse:hover {
+    transform: scale(1.1);
+}
