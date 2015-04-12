@@ -35,79 +35,90 @@ body {
     float: right;
 }
 
-.car-accident {
-    position: absolute;
-    margin-top: 400px;
-    margin-left: 1145px;
-}
-
-.studying-abroad {
-    position: absolute;
-    margin-top: 205px;
-    margin-left: 95px;
-}
-
-.capsicum {
-    position: absolute;
-    margin-top: 155px;
-    margin-left: 705px;
-}
-
-.internship {
-    position: absolute;
-    margin-left: 875px;
-    margin-top: 495px;
-}
-
-.columbia {
-    position: absolute;
-    margin-left: 325px;
-    margin-top: 615px;
-}
-
-.trust {
-    position: absolute;
-    margin-left: 900px;
-    margin-top: 265px;
-}
-
-.nyu-acceptance-letter {
-    position: absolute;
-    margin-left: 335px;
-    margin-top: 355px;
-}
-
-.radiates {
-    position: absolute;
-    margin-left: 960px;
-    margin-top: 85px;
-}
-
-.new-house {
-    position: absolute;
-    margin-left: 295px;
-    margin-top: 125px;
-}
-
-.abandoned-building {
-    position: absolute;
-    margin-left: 90px;
-    margin-top: 450px;
-}
-
-.our-relationship {
-    position: absolute;
-    margin-right: 150px;
-    margin-top: 100px;
-}
-
 .archive {
     height: 875px;
     margin-top: 100px;
     font-family: arial, helvetica, sans-serif;
     background-color: blue;
     color: white;
-    font-size: 60px;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.car-accident {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 1145px;
+    text-decoration: none;
+}
+
+.studying-abroad {
+    position: absolute;
+    margin-top: 205px;
+    margin-left: 55px;
+    text-decoration: none;
+}
+
+.capsicum {
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 705px;
+    text-decoration: none;
+}
+
+.internship {
+    position: absolute;
+    margin-left: 875px;
+    margin-top: 495px;
+    text-decoration: none;
+}
+
+.columbia {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 325px;
+    text-decoration: none;
+}
+
+.trust {
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 900px;
+    text-decoration: none;
+}
+
+.nyu-acceptance-letter {
+    margin-top: 355px;
+    position: absolute;
+    margin-left: 335px;
+    text-decoration: none;
+}
+
+.radiates {
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 960px;
+    text-decoration: none;
+}
+
+.new-house {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 275px;
+    text-decoration: none;
+}
+
+.abandoned-building {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+.our-relationship {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 700px;
     text-decoration: none;
 }
 
