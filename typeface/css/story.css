@@ -5,6 +5,7 @@ body {
 
 .stories-wrapper {
     margin-left: 70px;
+    margin-bottom: 140px;
 }
 
 .word-wrapper {
@@ -17,7 +18,7 @@ body {
     position: fixed;
     margin-top: 345px;
     z-index: 2;
-    color: blue;
+    color: #a6fffe;
     font-family: arial, helvetica, sans-serif;
     font-size: 130px;
     float: left;
@@ -28,11 +29,29 @@ body {
     position: fixed;
     margin-top: 360px;
     z-index: 2;
-    color: blue;
+    color: #a6fffe;
     font-family: arial, helvetica, sans-serif;
     font-size: 130px;
     text-align: right;
     float: right;
+}
+
+.attachment-wrapper {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.attachment-text {
+    display: inline-block;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+img {
+    padding-top: 10px;
+    display: inline-block;
+    width: 40px;
 }
 
 .archive {
