@@ -17,7 +17,8 @@ body {
     position: fixed;
     z-index: 2;
     color: blue;
-    font-size: 28px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 40px;
     text-decoration: underline;
     float: left;
 }
@@ -27,7 +28,8 @@ body {
     position: fixed;
     z-index: 2;
     color: blue;
-    font-size: 28px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 40px;
     text-align: right;
     text-decoration: underline;
     float: right;
@@ -100,11 +102,12 @@ body {
 }
 
 .archive {
-    height: 700px;
+    height: 1000px;
     margin-top: 100px;
+    font-family: arial, helvetica, sans-serif;
     background-color: blue;
     color: white;
-    font-size: 28px;
+    font-size: 40px;
     text-decoration: underline;
 }
 
