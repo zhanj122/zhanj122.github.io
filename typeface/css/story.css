@@ -14,14 +14,9 @@ body {
     font-size: 0;
 }
 
-.header {
-    text-align: center;
-}
-
 .left-wrapper {
     z-index: 2;
     position: fixed;
-    width: 100%;
     top: 5px;
     left: 15px;
     float: left;
@@ -34,8 +29,8 @@ body {
 .about {
     z-index: 2;
     position: fixed;
-    width: 100%;
     top: 5px;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     font-family: arial, helvetica, sans-serif;
