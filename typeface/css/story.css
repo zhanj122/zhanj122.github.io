@@ -15,7 +15,7 @@ body {
 }
 
 .left-wrapper {
-    z-index: 2;
+    z-index: 3;
     position: fixed;
     top: 5px;
     left: 15px;
@@ -41,7 +41,7 @@ body {
 
 .right-wrapper {
     position: fixed;
-    z-index: 2;
+    z-index: 3;
     top: 5px;
     right: 15px;
     float: right;
