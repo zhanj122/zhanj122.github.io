@@ -19,10 +19,12 @@ body {
 }
 
 .left-wrapper {
-    position: fixed;
     z-index: 2;
+    position: fixed;
+    width: 100%;
     top: 5px;
     left: 15px;
+    float: left;
     font-family: arial, helvetica, sans-serif;
     font-size: 36px;
     color: blue;
@@ -30,10 +32,10 @@ body {
 }
 
 .about {
-    position: fixed;
     z-index: 2;
-    top: 5px;
+    position: fixed;
     width: 100%;
+    top: 5px;
     margin: 0 auto;
     text-align: center;
     font-family: arial, helvetica, sans-serif;
@@ -47,6 +49,7 @@ body {
     z-index: 2;
     top: 5px;
     right: 15px;
+    float: right;
     font-family: arial, helvetica, sans-serif;
     font-size: 36px;
     color: blue;
