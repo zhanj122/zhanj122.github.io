@@ -6,7 +6,7 @@ body {
 .stories-wrapper {
     margin-left: 70px;
     margin-bottom: 160px;
-    margin-top: 30px;
+    margin-top: 75px;
 }
 
 .word-wrapper {
@@ -14,36 +14,42 @@ body {
     font-size: 0;
 }
 
-.left-wrapper {
-    left: 1px;
-    position: fixed;
-    margin-top: 345px;
-    z-index: 2;
-    color: blue;
-    font-family: arial, helvetica, sans-serif;
-    font-size: 130px;
-    float: left;
+.header {
+    text-align: center;
 }
 
-.right-wrapper {
-    right: 1px;
+.left-wrapper {
     position: fixed;
-    margin-top: 360px;
-    margin-right: 10px;
     z-index: 2;
-    color: blue;
+    top: 5px;
+    left: 15px;
     font-family: arial, helvetica, sans-serif;
-    font-size: 130px;
-    text-align: right;
-    float: right;
+    font-size: 36px;
+    color: blue;
+    text-decoration: underline;
 }
 
 .about {
-    right: 15px;
-    top: 0px;
-    position: absolute;
+    position: fixed;
+    z-index: 2;
+    top: 5px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
     font-family: arial, helvetica, sans-serif;
-    font-size: 24px;
+    font-size: 36px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.right-wrapper {
+    position: fixed;
+    z-index: 2;
+    top: 5px;
+    right: 15px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 36px;
+    color: blue;
     text-decoration: underline;
 }
 
