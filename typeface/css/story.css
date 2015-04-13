@@ -38,6 +38,15 @@ body {
     float: right;
 }
 
+.about {
+    right: 15px;
+    top: 0px;
+    position: absolute;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
 .attachment-wrapper {
     display: inline-block;
     margin-left: 70px;
