@@ -19,7 +19,7 @@ body {
     position: fixed;
     margin-top: 345px;
     z-index: 2;
-    color: #a6fffe;
+    color: blue;
     font-family: arial, helvetica, sans-serif;
     font-size: 130px;
     float: left;
@@ -31,7 +31,7 @@ body {
     margin-top: 360px;
     margin-right: 10px;
     z-index: 2;
-    color: #a6fffe;
+    color: blue;
     font-family: arial, helvetica, sans-serif;
     font-size: 130px;
     text-align: right;
@@ -176,18 +176,10 @@ a:visited {
 
 a {
     font-family: arial, helvetica, sans-serif;
-    color: black;
+    color: blue;
     font-size: 24px;
-    text-decoration: none;
+    text-decoration: underline;
 }
-
-.stories {
-    font-family: arial, helvetica, sans-serif;
-    color: black;
-    font-size: 24px;
-    text-decoration: none;
-}
-
 
 /*a:hover {
     transform: scale(1.1);
