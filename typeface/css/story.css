@@ -196,7 +196,7 @@ a {
     text-decoration: underline;
 }
 
-/*a:hover {
+.title:hover {
     transform: scale(1.1);
     display: inline-block;
 }
