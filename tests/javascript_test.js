@@ -14,7 +14,7 @@ var myVar = "some string"
 
 //  numbers always need to be entered WITHOUT quote marks (because the computer actually understands numbers/math)    //
 
-//  ebullien is true or false, it only understands the words true or false WITHOUT quote marks (because the computer conceptually understands these words)    //
+//  a boolean is true or false, it only understands the words true or false WITHOUT quote marks (because the computer conceptually understands these words)    //
 
 
 
