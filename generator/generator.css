@@ -1,0 +1,37 @@
+.face-holder {
+    width: 100;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.face-holder img {
+    width:100%;
+    display:block;
+}
+
+.question-holder {
+    margin: 48px;
+    font-size: 72;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    z-index: 50;
+    color: red;
+}
+
+.go-button {
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    top: 50px;
+    right: 50px;
+    color: white;
+    line-height:100px;
+    text-align:center;
+    z-index:1000;
+}
