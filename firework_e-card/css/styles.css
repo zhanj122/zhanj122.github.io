@@ -10,3 +10,10 @@ body {
     background-color: #02022d;
 }
 
+.fireworks-container {
+    position: relative;
+}
+
+.firework {
+    position: absolute;
+}

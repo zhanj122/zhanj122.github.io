@@ -9,21 +9,35 @@
 //    img = '<img src="path/file.jpg">';
 
 
-var fireworks = ["assets/firework1.gif", "assets/firework2.gif", "assets/firework3.gif", "assets/firework4.gif", "assets/firework5.gif", "assets/rocket.gif"];
+
+var fireworks = ["assets/firework_disk_copper_2f_40fbreak_matte.gif", 
+                "assets/firework_disk_orange_2f_18fbreak_tweaked_matte.gif", 
+                "assets/firework_disk_teal_2f_24fbreak_matte.gif",
+                "assets/firework_flower_green_2f_18fbreak_tweaked_matte.gif",
+                "assets/firework_flower_magenta_4f_75fbreak_matte.gif",
+                "assets/firework_flower_neon_2f_40fbreak_tweaked_matte.gif",
+                "assets/firework_palm_blue_3f_23fbreak_matte.gif",
+                "assets/firework_palm_blue2_2f_25fbreak_matte.gif",
+                "assets/firework_palm_gold_3f_36fbreak_matte.gif",
+                "assets/shooting-star_2f_60f_matte.gif"];
 
 var clicked = false;
 // why is var clicked true or false? what difference does it make
  
-$(document).click(function() {
+$(document).click(function(event) {
     var nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
   
     while (clicked == nextfirework) {
-    nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
-  }
+        nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
+    }
   
-clicked = nextfirework;
-    $(".fireworks-container").html(nextfirework);
-    $(".fireworks-container").html('<img src=" '+fireworks[Math.floor(Math.random()*fireworks.length)]+' ">');
+    clicked = nextfirework;
+    
+    var x_coord = event.pageX,
+        y_coord = event.pageY,
+        image = '<img class="firework" src="' + nextfirework + '" style="top: ' + y_coord + 'px; left: ' + x_coord + 'px;" />'
+    
+    $(".fireworks-container").append(image);
 }); 
 
 
