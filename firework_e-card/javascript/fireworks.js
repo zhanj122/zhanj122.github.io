@@ -40,6 +40,13 @@ $(document).click(function(event) {
     $(".fireworks-container").append(image);
 }); 
 
+$("play button").click(
+    function(){$("play button").css({"visibility": "hidden"});},
+    function(){$("recording button").css({"visibility": "visible"});},
+
+$("recording button").click(
+    function(){$("recording button").css({"visibility": "hidden"});},
+    function(){$("stop button").css({"visibility": "visible"});},
 
 
 //  clicked = nextfirework;
