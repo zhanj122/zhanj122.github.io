@@ -30,10 +30,31 @@ body {
     left: 30px;
 }
 
-.recording {
-    visibility: hidden;
+.actions {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
 }
 
-.stop {
-    visibility: hidden;
+.hide {
+    display: none;
+}
+
+.actions img {
+    width: 100%;
+    height: auto;
+}
+
+.recording {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: url('../assets/record_stop.gif');
+    background-position: 0 0;
+}
+
+.recording.stop {
+    background-position: -40px 0;
 }

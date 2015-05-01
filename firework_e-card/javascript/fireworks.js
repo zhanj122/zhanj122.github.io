@@ -22,7 +22,17 @@ var fireworks = ["assets/firework_disk_copper_2f_40fbreak_matte.gif",
                 "assets/shooting-star_2f_60f_matte.gif"];
 
 var audio = ["assets/firework1.wav", 
-            "assets/firework2.wav"];
+            "assets/firework2.wav",
+            "assets/firework3.wav",
+            "assets/firework4.wav",
+            "assets/firework5.wav",
+            "assets/firework6.wav",
+            "assets/firework7.wav",
+            "assets/firework8.wav",
+            "assets/firework9.wav",
+            "assets/firework10.wav"];
+
+
 
 var clicked = false;
 // why is var clicked true or false? what difference does it make
@@ -43,36 +53,16 @@ $(document).click(function(event) {
     $(".fireworks-container").append(image);
 }); 
 
+$('.record').click(function() {
+    $(this).addClass('hide');
+    $('.recording').removeClass('hide');
+});
 
+$('.recording').hover(function() {
+    $(this).toggleClass('stop');
+});
 
-//$("play button").click(
-//    function(){$("play button").css({"visibility": "hidden"});},
-//    function(){$("recording button").css({"visibility": "visible"});},
-
-//$("recording button").click(
-//    function(){$("recording button").css({"visibility": "hidden"});},
-//    function(){$("stop button").css({"visibility": "visible"});},
-
-
-//  clicked = nextfirework;
-//  $(".fireworks-container").html(nextfirework);
-//  $(".fireworks-container").html('<img src="' + fireworks[Math.floor(Math.random()*fireworks.length)]+ '">');
-//}); 
-
-// single quotation is paired inside-out/outside-in
-// but you need space around the equation
-// so in:       $(".fireworks-container").html('<img src="' + fireworks[Math.floor(Math.random()*fireworks.length)]+ '">');
-//              ' + fireworks[Math.floor(Math.random()*fireworks.length)]+ '    is its own thing
-
-// while loops means no matter how many times you click, it's going to generate a new image over and over again
-
-// single = assigning a value to something
-// double == means it's equal to
-
-//$(document).click(function() {
-//    var path  = 'assets/firework1.gif',
-//        image = '<img src="' + path +'" />';
-        
-//   $('.background').append(image);
-//}); 
-
+$('.recording').click(function() {
+     $(this).addClass('hide');
+     $('.lightbox-wrapper').removeClass('hide');
+});

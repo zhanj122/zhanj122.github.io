@@ -1,26 +1,33 @@
 <html>
     <head>
         <title>Fireworks E-Card</title>
+        <link rel="stylesheet" href="css/lightbox.css" />
         <link rel="stylesheet" href="css/styles.css" />
+        
         <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
         <script src="javascript/jquery.js"></script>
         
     </head>
     
     <body>
-        <div class="fireworks-container"></div>
-        <div class="play button">
-            <img src="assets/button_play.png" class="play button">
-        </div>
-        <div class="recording button">
-            <img src="assets/button_recording.png" class="recording button">
-        </div>
-        <div class="stop button">
-            <img src="assets/button_stop.png" class="stop button">
+        
+        <div class="lightbox-wrapper hide">
+            <div class="lightbox">
+                <div class="to"><strong>to:</strong></div>
+                <div class="email">enter email(s) here</div>
+                <div class="message">say something nice.</div>
+                <div class="send">send!</div>
+                <div class="nevermind">nevermind.</div>
+            </div>
         </div>
         
-        <source src="assets/firework1.wav" type="audio/mpeg">
-        <source src="assets/firework2.wav" type="audio/mpeg">
+        <div class="fireworks-container disabled"></div>
+        
+        <div class="actions">
+            <img src="assets/button_record.png" class="record" />
+            <span class="recording hide"></span>
+            <img src="assets/button_stop.png" class="stop hide" />
+        </div>
         
         <script src="javascript/fireworks.js"></script>
     </body>
