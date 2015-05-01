@@ -22,20 +22,12 @@ body {
     z-index: 0;
 }
 
-.button {
-    width: 75px;
-    z-index: 1;
-    position: absolute;
-    bottom: 20px;
-    left: 30px;
-}
-
 .actions {
     position: fixed;
-    bottom: 20px;
-    left: 20px;
-    width: 40px;
-    height: 40px;
+    bottom: 50px;
+    left: 50px;
+    width: 60px;
+    height: 60px;
 }
 
 .hide {
@@ -49,12 +41,17 @@ body {
 
 .recording {
     display: block;
-    width: 40px;
-    height: 40px;
-    background: url('../assets/record_stop.gif');
+    width: 60px;
+    height: 60px;
+    background: url('../assets/button_recording_2f.gif');
     background-position: 0 0;
 }
 
+.recording img {
+    width: 100%;
+    height: auto;
+}
+
 .recording.stop {
-    background-position: -40px 0;
+    background-position: -60px 0;
 }

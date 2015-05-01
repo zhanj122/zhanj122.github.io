@@ -1,15 +1,3 @@
-//$(document).click(function() {
-//    var fireworks = ["assets/firework1.gif", "assets/firework2.gif"];
-//    var image = '<img src="' + fireworks +'" />';
-        
-//   $('.background').append(image);
-//});
-    
-    
-//    img = '<img src="path/file.jpg">';
-
-
-
 var fireworks = ["assets/firework_disk_copper_2f_40fbreak_matte.gif", 
                 "assets/firework_disk_orange_2f_18fbreak_tweaked_matte.gif", 
                 "assets/firework_disk_teal_2f_24fbreak_matte.gif",
