@@ -45,6 +45,7 @@ body {
     height: 60px;
     background: url('../assets/button_recording_2f.gif');
     background-position: 0 0;
+    background-size: 60px 120px;
 }
 
 .recording img {
