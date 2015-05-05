@@ -41,7 +41,6 @@ $(document).click(function(event) {
     $(".fireworks-container").append(image);
 }); 
 
-
 $('.record').click(function(event) {
     event.stopImmediatePropagation();
     $(this).addClass('hide');
