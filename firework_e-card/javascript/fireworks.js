@@ -22,11 +22,10 @@ var audio = ["assets/firework1.wav",
             "assets/firework9.wav",
             "assets/firework10.wav"];
 
-
-
 var clicked = false;
 // why is var clicked true or false? what difference does it make
- 
+
+
 $(document).click(function(event) {
     var nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
   
@@ -43,9 +42,12 @@ $(document).click(function(event) {
     $(".fireworks-container").append(image);
 }); 
 
-$('.record').click(function() {
+
+$('.record').click(function(event) {
+    event.stopImmediatePropagation();
     $(this).addClass('hide');
     $('.recording').removeClass('hide');
+    $('.recording-message').addClass('show');
 });
 
 $('.recording').hover(function() {
@@ -55,4 +57,9 @@ $('.recording').hover(function() {
 $('.recording').click(function() {
      $(this).addClass('hide');
      $('.lightbox-wrapper').removeClass('hide');
+     $('.recording-message').removeClass('show');
+});
+
+$('.nevermind').click(function() {
+    location.reload();
 });
