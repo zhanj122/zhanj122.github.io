@@ -7,7 +7,9 @@ var fireworks = ["assets/firework_disk_copper_2f_40fbreak_matte.gif",
                 "assets/firework_palm_blue_3f_23fbreak_matte.gif",
                 "assets/firework_palm_blue2_2f_25fbreak_matte.gif",
                 "assets/firework_palm_gold_3f_36fbreak_matte.gif",
-                "assets/shooting-star_2f_60f_matte.gif"];
+                "assets/shooting-star_2f_60f_matte.gif",
+                "assets/firework_flower_aqua_2f_60fbreak_matte.gif",
+                "assets/fireworks_bees_yellow_3f_30fbreak_matte.gif"];
 
 var audio = ["assets/firework1.wav", 
             "assets/firework2.wav",
