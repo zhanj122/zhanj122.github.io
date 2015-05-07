@@ -8,6 +8,28 @@
         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         
+        <SCRIPT LANGUAGE="JavaScript">
+        <!-- Begin
+        startday = new Date();
+        clockStart = startday.getTime();
+        function initStopwatch() {
+        var myTime = new Date();
+        var timeNow = myTime.getTime();
+        var timeDiff = timeNow - clockStart;
+        this.diffSecs = timeDiff/1000;
+        return(this.diffSecs);
+        }
+        function getSecs()
+        {
+            var mySecs = initStopwatch();
+            var mySecs1 = ""+mySecs;
+            mySecs1= mySecs1.substring(0,mySecs1.indexOf(".")) + " secs.";
+            document.getElementById("timespent").value = mySecs1;
+            window.setTimeout('getSecs()',1000);
+        }
+        // End -->
+        </SCRIPT>
+        
         <script src="javascript/jquery.js"></script>
     </head>
     
@@ -41,6 +63,14 @@
         <div class="recording-message">
             REC
         </div>
+        
+        <BODY onLoad="window.setTimeout('getSecs()',1)">
+        <CENTER>
+        <FORM>
+        <input size=9 id="timespent" name="timespent">
+        </FORM>
+        </CENTER>
+
         
         <!--<input type="button" name="btn" id='btn' value="Start" onclick="to_start()";>
         <br><br>

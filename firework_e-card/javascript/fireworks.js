@@ -8,7 +8,9 @@ var fireworks = ["assets/firework_disk_copper_2f_40fbreak_matte.gif",
                 "assets/firework_palm_blue_3f_23fbreak_matte.gif",
                 "assets/firework_palm_blue2_2f_25fbreak_matte.gif",
                 "assets/firework_palm_gold_3f_36fbreak_matte.gif",
-                "assets/shooting-star_2f_60f_matte.gif"];
+                "assets/shooting-star_2f_60f_matte.gif",
+                "assets/ufo.gif",
+                "assets/hot-air-balloon.gif"];
 
 var audio = ["assets/firework1.wav", 
             "assets/firework2.wav",
@@ -58,9 +60,29 @@ $('.recording').click(function() {
      $('.recording-message').removeClass('show');
 });
 
+$('.record').click(function() {
+    location.reload();
+});
+
 $('.nevermind').click(function() {
     location.reload();
 });
+
+
+// function DisplayTime(){
+// if (!document.all && !document.getElementById)
+// return
+// timeElement=document.getElementById? document.getElementById("curTime"): document.all.tick2
+// var CurrentDate=new Date()
+// var minutes=CurrentDate.getMinutes()
+// var seconds=CurrentDate.getSeconds()
+// if (minutes<=9) minutes="0"+minutes;
+// if (seconds<=9) seconds="0"+seconds;
+// var currentTime=hours+":"+minutes+":"+seconds;
+// timeElement.innerHTML="<font style='font-size:12px;font-weight:bold;'>"+currentTime+"</b>"
+// setTimeout("DisplayTime()",1000)
+// }
+// window.onload=DisplayTime
 
 
 // var h=0;
