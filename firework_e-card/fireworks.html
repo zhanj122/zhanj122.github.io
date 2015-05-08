@@ -5,31 +5,6 @@
         <link rel="stylesheet" href="css/styles.css" />
         <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
         <link href='http://fonts.googleapis.com/css?family=Chivo' rel='stylesheet' type='text/css'>
-        
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        
-        <SCRIPT LANGUAGE="JavaScript">
-        <!-- Begin
-        startday = new Date();
-        clockStart = startday.getTime();
-        function initStopwatch() {
-        var myTime = new Date();
-        var timeNow = myTime.getTime();
-        var timeDiff = timeNow - clockStart;
-        this.diffSecs = timeDiff/1000;
-        return(this.diffSecs);
-        }
-        function getSecs()
-        {
-            var mySecs = initStopwatch();
-            var mySecs1 = ""+mySecs;
-            mySecs1= mySecs1.substring(0,mySecs1.indexOf(".")) + " secs.";
-            document.getElementById("timespent").value = mySecs1;
-            window.setTimeout('getSecs()',1000);
-        }
-        // End -->
-        </SCRIPT>
-        
         <script src="javascript/jquery.js"></script>
     </head>
     
@@ -64,18 +39,12 @@
             REC
         </div>
         
-        <BODY onLoad="window.setTimeout('getSecs()',1)">
-        <CENTER>
-        <FORM>
-        <input size=9 id="timespent" name="timespent">
-        </FORM>
-        </CENTER>
-
-        
         <!--<input type="button" name="btn" id='btn' value="Start" onclick="to_start()";>
         <br><br>
         <div id=n1 style="z-index: 2; position: relative; right: 0px; top: 10px; 
         width: 100px; padding: 10px; color: white; font-size:20px;> </div>-->
+        
+        <div class="timer">0</div>
 
         <script src="javascript/fireworks.js"></script>
     </body>

@@ -32,7 +32,7 @@ body {
 }
 
 .recording-message {
-    position: fixed;
+    position: absolute;
     bottom: 34px;
     left: 130px;
     font-weight: bold;
@@ -71,4 +71,14 @@ body {
 
 .recording.stop {
     background-position: -60px 0;
+}
+
+.timer {
+    position: absolute;
+    bottom: 34px;
+    right: 60px;
+    font-weight: bold;
+    color: #dd1c23;
+    font-size: 78px;
+    font-family: helvetica;
 }

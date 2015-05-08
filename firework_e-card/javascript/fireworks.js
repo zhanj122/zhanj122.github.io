@@ -26,20 +26,15 @@ var audio = ["assets/firework1.wav",
 var clicked = false;
 // why is var clicked true or false? what difference does it make
 
-
 $(document).click(function(event) {
     var nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
-  
     while (clicked == nextfirework) {
         nextfirework = fireworks[Math.floor(Math.random()*fireworks.length)];
     }
-  
     clicked = nextfirework;
-    
     var x_coord = event.pageX,
         y_coord = event.pageY,
         image = '<img class="firework" src="' + nextfirework + '" style="top: ' + y_coord + 'px; left: ' + x_coord + 'px;" />'
-    
     $(".fireworks-container").append(image);
 }); 
 
@@ -48,7 +43,19 @@ $('.record').click(function(event) {
     $(this).addClass('hide');
     $('.recording').removeClass('hide');
     $('.recording-message').addClass('show');
+    $(".fireworks-container").html("");
+    start_timer();
 });
+
+function start_timer() {
+    setInterval(increment_time, 1000);
+}
+
+function increment_time() {
+    var current_time = eval($('.timer').html()) + 1;
+    
+    $('.timer').html(current_time);
+}
 
 $('.recording').hover(function() {
     $(this).toggleClass('stop');
@@ -60,13 +67,13 @@ $('.recording').click(function() {
      $('.recording-message').removeClass('show');
 });
 
-$('.record').click(function() {
-    location.reload();
-});
-
 $('.nevermind').click(function() {
     location.reload();
 });
+
+
+// $(".band-button").css("background-color", "red");
+// var name = fireworks[0];
 
 
 // function DisplayTime(){

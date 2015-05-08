@@ -22,7 +22,7 @@ var myVar = "some string"
 
 ["one", "two", "three"] [0]
 //  an array is more of a container than it is a data type, it encapsulates many other types of data    //
-//  in an array, you can put: strings, numbers, ebulliens, variables, etc.    //
+//  in an array, you can put: strings, numbers, booleans, variables, etc.    //
 //  items in an array always start at 0 (the first item in an array is always item 0, the second item is item 1)    //
 
 [3.14, "hello world", true, false]
