@@ -73,7 +73,7 @@ body {
     background-position: -60px 0;
 }
 
-.timer {
+.timer.show {
     position: absolute;
     bottom: 34px;
     right: 60px;
