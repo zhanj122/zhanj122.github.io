@@ -80,3 +80,7 @@ $('.recording').click(function() {
 $('.nevermind').click(function() {
     location.reload();
 });
+
+var favicons = ["assets/favicon1.png", "assets/favicon2.png"];
+var randomfav = Math.floor(Math.random()*favicons.length);
+$(".randomfavicon").attr("href", randomfav);
