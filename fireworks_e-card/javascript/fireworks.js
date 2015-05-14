@@ -1,5 +1,7 @@
 $('#runner').runner();
 
+console.log("hello world");
+
 var fireworks = ["assets/hot-air-balloon_loop1.gif",
                 "assets/firework_disk_copper_1f_80fbreak.gif",
                 "assets/firework_disk_copper_2f_40fbreak.gif",
@@ -60,6 +62,7 @@ $('.record').click(function(event) {
     $('.recording-message').addClass('show');
     $(".fireworks-container").html("");
     start_timer();
+    $('.timer').addClass('show');
     $('.timer').removeClass('hide');
 });
 
@@ -69,7 +72,11 @@ function start_timer() {
 
 $('.recording').hover(function() {
     $(this).toggleClass('stop');
-    $('.recording-message').hideClass('.recording-message');
+    $('.recording-message').addClass('hide');
+    $('.recording-message').removeClass('show');
+}, function() {
+    $('.recording-message').addClass('show');
+    $('.recording-message').removeClass('hide');
 });
 
 $('.recording').click(function() {
@@ -81,6 +88,35 @@ $('.nevermind').click(function() {
     location.reload();
 });
 
-var favicons = ["assets/favicon1.png", "assets/favicon2.png"];
-var randomfav = Math.floor(Math.random()*favicons.length);
+window.onload = function(){
+    $('.timer').addClass('hide');
+    $('.timer').removeClass('show');
+};
+
+var favicons = ["assets/favicon1.png", 
+                "assets/favicon2.png",
+                "assets/favicon3.png", 
+                "assets/favicon4.png", 
+                "assets/favicon5.png", 
+                "assets/favicon6.png", 
+                "assets/favicon7.png",
+                "assets/favicon8.png", 
+                "assets/favicon9.png", 
+                "assets/favicon10.png", 
+                "assets/favicon11.png", 
+                "assets/favicon12.png", 
+                "assets/favicon13.png", 
+                "assets/favicon14.png", 
+                "assets/favicon15.png", 
+                "assets/favicon16.png", 
+                "assets/favicon17.png", 
+                "assets/favicon18.png", 
+                "assets/favicon19.png", 
+                "assets/favicon20.png", 
+                "assets/favicon21.png", 
+                "assets/favicon22.png", 
+                "assets/favicon23.png"];
+                
+var randomfav = favicons[Math.floor(Math.random()*favicons.length)];
+console.log(randomfav);
 $(".randomfavicon").attr("href", randomfav);

@@ -1,12 +1,11 @@
 <html>
     <head>
         <title>Fireworks E-Card</title>
+        <script src="javascript/jquery.js"></script>
         <link rel="stylesheet" href="css/lightbox.css" />
         <link rel="stylesheet" href="css/styles.css" />
         <link rel="icon" href="" type="image/png" class="randomfavicon">
-        <script src="javascript/runner.js" type="text/javascript"></script>
         <link href='http://fonts.googleapis.com/css?family=Chivo' rel='stylesheet' type='text/css'>
-        <script src="javascript/jquery.js"></script>
     </head>
     
     <body>
@@ -32,34 +31,36 @@
         
         <div class="actions">
             <img src="assets/button_record.png" class="record" />
-            <span class="recording hide">
+            <span class="recording hide show">
                 <img src="assets/button_recording_2f.gif" class="stop hide" />
             </span>
         </div>
-        <div class="recording-message">
+        <div class="recording-message hide">
             REC
         </div>
         
-        <?php
- $dir = "img/icons/";
- $files = array();
- if ($handle = opendir($dir)) {
-   while (false !== ($file = readdir($handle))) {
-    $files[] = $file;
-   }
- }
- $icon = $files[rand(2,count($files)-1)];
- ?>
-<link rel="shortcut icon" href="<?php echo "img/icons/$icon" ?>"/>
-?>
+        <div id="runner" class="timer show hide"></div>
+        <script src="javascript/runner.js" type="text/javascript"></script>
+
+        <script src="javascript/fireworks.js"></script>
+    </body>
+</html>
+
+<!--        <?php-->
+<!-- $dir = "img/icons/";-->
+<!-- $files = array();-->
+<!-- if ($handle = opendir($dir)) {-->
+<!--   while (false !== ($file = readdir($handle))) {-->
+<!--    $files[] = $file;-->
+<!--   }-->
+<!-- }-->
+<!-- $icon = $files[rand(2,count($files)-1)];-->
+<!-- ?>-->
+<!--<link rel="shortcut icon" href="<?php echo "img/icons/$icon" ?>"/>-->
+<!--?>-->
         
         <!--<input type="button" name="btn" id='btn' value="Start" onclick="to_start()";>
         <br><br>
         <div id=n1 style="z-index: 2;  : relative; right: 0px; top: 10px; 
         width: 100px; padding: 10px; color: white; font-size:20px;> </div>-->
         
-        <div id="runner" class="timer hide"></div>
-
-        <script src="javascript/fireworks.js"></script>
-    </body>
-</html>
