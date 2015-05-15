@@ -40,7 +40,7 @@ var fireworks = ["assets/hot-air-balloon_loop1.gif",
                 "assets/ufo_loop1.gif",
                 "assets/ufo.gif",
                 "assets/skymessage1.gif",
-                "constellation_pegasus.gif"];
+                "assets/constellation_pegasus.gif"];
 
 var clicked = false;
 // why is var clicked true or false? what difference does it make
