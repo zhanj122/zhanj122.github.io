@@ -92,6 +92,20 @@ input[type="submit"] {
     z-index: 10;
 }
 
+/*.send {*/
+/*    bottom: 19px;*/
+/*    right: 19px;*/
+/*    width: 55px;*/
+/*    position: absolute;*/
+/*    display: inline-block;*/
+/*    text-align: center;*/
+/*    font-family: 'Chivo', sans-serif;*/
+/*    font-size: 16px;*/
+/*    line-height: 20px;*/
+/*    background-color: rgb(178, 230, 255);*/
+/*    border: 2px solid #000;*/
+/*}*/
+
 input[type="reset"] {
     bottom: 19px;
     left: 19px;
