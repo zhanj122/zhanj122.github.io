@@ -115,7 +115,13 @@ var favicons = ["assets/favicon1.png",
                 "assets/favicon20.png", 
                 "assets/favicon21.png", 
                 "assets/favicon22.png", 
-                "assets/favicon23.png"];
+                "assets/favicon23.png" 
+                "assets/favicon24.png", 
+                "assets/favicon25.png", 
+                "assets/favicon26.png", 
+                "assets/favicon27.png", 
+                "assets/favicon28.png", 
+                "assets/favicon29.png"];
                 
 var randomfav = favicons[Math.floor(Math.random()*favicons.length)];
 console.log(randomfav);
