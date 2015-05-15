@@ -115,7 +115,7 @@ var favicons = ["assets/favicon1.png",
                 "assets/favicon20.png", 
                 "assets/favicon21.png", 
                 "assets/favicon22.png", 
-                "assets/favicon23.png" 
+                "assets/favicon23.png", 
                 "assets/favicon24.png", 
                 "assets/favicon25.png", 
                 "assets/favicon26.png", 
