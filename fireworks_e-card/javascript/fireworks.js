@@ -39,7 +39,7 @@ var fireworks = ["assets/hot-air-balloon_loop1.gif",
                 "assets/shooting-star_loop1.gif",
                 "assets/ufo_loop1.gif",
                 "assets/ufo.gif",
-                "assets/skymessage1.gif",
+                // "assets/skymessage1.gif",
                 "assets/constellation_pegasus.gif"];
 
 var clicked = false;
