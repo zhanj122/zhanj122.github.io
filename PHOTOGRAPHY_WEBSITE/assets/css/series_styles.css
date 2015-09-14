@@ -40,13 +40,14 @@
 
 .menu-wrapper {
     z-index: 1;
-    top: 20px
-    left: 20px;
+    width: 250px;
+    margin-top: 100px
+    margin-left: 20px;
 }
 
 .series-wrapper {
-    width: 240px;
     margin-left: 35px;
+    display: inline-block;
     float: left;
     text-align: left;
     font-family: Arial, sans-serif;
@@ -55,9 +56,9 @@
 }
 
 .info-wrapper {
-    width: 240px;
     margin-left: 35px;
     margin-top: 35px;
+    display: inline-block;
     float: left;
     text-align: left;
     font-family: Arial, sans-serif;
@@ -67,9 +68,9 @@
 
 .content-wrapper {
     z-index: 0;
-    height: 500px;
+    height: 300px;
     margin-left: 250px;
-    margin-bottom: 200px;
+    top: 200px;
     float: left;
     font-size: 0;
 }
@@ -81,9 +82,31 @@
 }
 
 .photos img {                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-    max-height: 500px;
-    margin-bottom: 5px;
-}                                                                 
+    width: 100%;
+}                        
+
+/*.content-wrapper {*/
+/*    width: 780px;*/
+/*    margin-right: 5px;*/
+/*    margin-bottom: 200px;*/
+/*    float: left;*/
+/*    font-size: 0;*/
+/*}*/
+
+/*.content {*/
+/*    width: 225px;*/
+/*    margin: 5 30 60 5;*/
+/*    display: inline-block;*/
+/*    font-family: "courier new", courier, monospace;*/
+/*    font-size: 10px;*/
+/*    line-height: 10px;*/
+/*}*/
+
+/*.content img {*/
+/*    width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            */
+/*    max-height: 500px;*/
+/*    margin-bottom: 5px;*/
+/*}    */
 
 .footer {
     z-index: -1;
