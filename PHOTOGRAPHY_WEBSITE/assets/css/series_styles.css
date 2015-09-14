@@ -2,6 +2,7 @@
     width: 200px;
     height: 722px;
     z-index: 1;
+    font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 20px;
     padding-bottom: 100px;
@@ -12,6 +13,7 @@
 }
 
 .about {
+    font-family: Arial, sans-serif;
     font-size: 14px;
     float: left;
 }
@@ -41,7 +43,7 @@
     margin-left: 35px;
     float: left;
     text-align: left;
-    font-family: Arial, Helvetica, sans-serif !important;
+    font-family: Arial, sans-serif;
     font-size: 11px;
     line-height: 25px;
 }
@@ -69,6 +71,6 @@
     font-size: 14px;
     text-align: right;
     float: right;
-    text-decoration: italic;
+    font-family: Arial, sans-serif;
     margin-bottom: 30px;
 }
