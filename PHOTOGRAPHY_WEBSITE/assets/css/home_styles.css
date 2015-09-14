@@ -1,0 +1,112 @@
+.header {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 100px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.instructions {
+    font-size: 14px;
+    float: left;
+}
+
+.thirty-six-things {
+    font-size: 14px;
+    float: center;
+}
+
+.where {
+    font-size: 14px;
+    float: right;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.wrapper {
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.dates-wrapper {
+    width: 240px;
+    margin-left: 35px;
+    float: left;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 11px;
+    line-height: 25px;
+}
+
+.content-wrapper {
+    width: 780px;
+    margin-right: 5px;
+    margin-bottom: 200px;
+    float: left;
+    font-size: 0;
+}
+
+.content {
+    width: 225px;
+    margin: 5 30 60 5;
+    display: inline-block;
+    font-family: "courier new", courier, monospace;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.content img {
+    width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    max-height: 500px;
+    margin-bottom: 5px;
+}                                                                 
+
+.link-box {
+    width: 200px;
+    height: 200px;
+    padding: 60 70;
+    margin-bottom: 4px;
+    background-color: yellow;
+    font-family: "courier new", courier, monospace;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.pdf-box {
+    width: 200px;
+    height: 200px;
+    padding: 60 70;
+    margin-bottom: 4px;
+    background-color: red;
+    font-family: "courier new", courier, monospace;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+audio {
+    background-color: #000;
+    max-width: 225px;
+    margin-bottom: 4px;
+}
+
+video {
+    margin-bottom: 4px;
+}
+
+.iframe {
+    width: 225px;
+    height: 112px;
+    margin-bottom: 4px;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: right;
+    float: right;
+    text-decoration: italic;
+    margin-bottom: 30px;
+}
