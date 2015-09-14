@@ -1,21 +1,21 @@
-.header {
-    width: 200px;
-    height: 722px;
-    z-index: 1;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 20px;
-    padding-bottom: 100px;
-}
+/*.header {*/
+/*    width: 200px;*/
+/*    height: 722px;*/
+/*    z-index: 1;*/
+/*    font-family: Arial, sans-serif;*/
+/*    text-align: center;*/
+/*    margin-top: 20px;*/
+/*    padding-bottom: 100px;*/
+/*}*/
+
+/*.about {*/
+/*    font-family: Arial, sans-serif;*/
+/*    font-size: 11px;*/
+/*    float: left;*/
+/*}*/
 
 * {
     box-sizing: border-box;
-}
-
-.about {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    float: left;
 }
 
 /*.thirty-six-things {*/
@@ -38,6 +38,12 @@
     z-index: 0;
 }
 
+.menu-wrapper {
+    z-index: 1;
+    top: 20px
+    left: 20px;
+}
+
 .series-wrapper {
     width: 240px;
     margin-left: 35px;
@@ -48,8 +54,21 @@
     line-height: 25px;
 }
 
+.info-wrapper {
+    width: 240px;
+    margin-left: 35px;
+    margin-top: 35px;
+    float: left;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    line-height: 25px;
+}
+
 .content-wrapper {
+    z-index: 0;
     height: 500px;
+    margin-left: 250px;
     margin-bottom: 200px;
     float: left;
     font-size: 0;
@@ -61,13 +80,13 @@
     display: inline-block;
 }
 
-.photos img {
-    width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+.photos img {                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
     max-height: 500px;
     margin-bottom: 5px;
 }                                                                 
 
 .footer {
+    z-index: -1;
     font-size: 14px;
     text-align: right;
     float: right;
