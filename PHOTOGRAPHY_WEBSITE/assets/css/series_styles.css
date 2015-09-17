@@ -71,8 +71,10 @@ body {
 }
 
 .photos-wrapper {
+    overflow: auto;
+    white-space: nowrap;
     height: 350px;
-    margin-left: 250px;
+    margin: 190 0 0 300;
     float: left;
     font-size: 0;
 }
@@ -84,8 +86,8 @@ body {
 
 .photos {
     display: inline-block;
+    margin: 0 40 0 0;
     width: 500px;
-    margin: 0 5 0 250;
 }
     /*width: 225px;*/
     /*margin: 5 30 60 5;*/
