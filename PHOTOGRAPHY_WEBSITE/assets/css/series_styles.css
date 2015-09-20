@@ -36,19 +36,40 @@ body {
     text-decoration: none;
 }
 
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #808080;
+}
+
+/* mouse over link */
+a:hover {
+    color: #808080;
+}
+
+/* selected link */
+/*a:active {*/
+/*    color: #0000FF;*/
+/*}*/
+
 .menu-wrapper {
     position: fixed;
     top: 0;
     left: 0;
     width: 205px;
     height: 722px;
-    padding-top: 200px;
+    padding-top: 190px;
     padding-left: 50px;
     float: left;
     font-family: Arial, sans-serif;
     font-size: 11px;
     line-height: 25px;
     background-color: white;
+    /*opacity: 0.5;*/
 }
 
 .options {
@@ -105,6 +126,8 @@ body {
 
 .footer {
     z-index: -1;
+    width: 250px;
+    height: 11px;
     position: fixed;
     bottom: 30px;
     right: 30px;
@@ -112,4 +135,5 @@ body {
     text-align: right;
     float: right;
     font-family: Arial, sans-serif;
+    text-decoration: italic;
 }
