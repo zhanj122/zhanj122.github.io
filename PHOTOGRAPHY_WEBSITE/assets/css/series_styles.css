@@ -40,7 +40,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: 250px;
+    width: 205px;
     height: 722px;
     padding-top: 200px;
     padding-left: 50px;
@@ -74,7 +74,7 @@ body {
     overflow: auto;
     white-space: nowrap;
     height: 350px;
-    margin: 190 0 0 300;
+    margin: 185 0 0 300;
     float: left;
     font-size: 0;
 }
