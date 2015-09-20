@@ -94,7 +94,6 @@ a:hover {
 .photos-wrapper {
     overflow: auto;
     white-space: nowrap;
-    height: 350px;
     margin: 185 0 0 300;
     float: left;
     font-size: 0;
