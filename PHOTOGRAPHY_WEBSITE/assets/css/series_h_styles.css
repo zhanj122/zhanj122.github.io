@@ -43,7 +43,7 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: #666666;
+    color: #000000;
 }
 
 /* mouse over link */
@@ -83,7 +83,12 @@ a:hover {
 
 .series-wrapper {
     width: 200px;
-    height: 100px;
+    height: 110px;
+}
+
+.title {
+    width: 175px;
+    height: 30px;
 }
 
 .info-wrapper {
