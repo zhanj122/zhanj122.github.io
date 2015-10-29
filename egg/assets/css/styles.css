@@ -1,0 +1,82 @@
+body {
+  background: blue;
+  /*-webkit-user-select: none;*/
+}
+
+.wrapper {
+    width: 780px;
+    float: left;
+    font-size: 0;
+}
+
+.birthdays {
+  display: inline-block;
+  position: absolute;
+  opacity: 0;
+  width: 180px;
+  top: 20px;
+  left: 160px;
+}
+
+.weddings {
+  display: inline-block;
+  position: absolute;
+  opacity: 0;
+  width: 110px;
+  top: 500px;
+  left: 320px;
+}
+
+.carcrashes {
+  display: inline-block;
+  position: absolute;
+  opacity: 0;
+  width: 230px;
+  top: 2500px;
+  left: 430px;
+}
+
+.taxes {
+  display: inline-block;
+  position: absolute;
+  opacity: 0;
+  width: 120px;
+  top: 3100px;
+  left: 430px;
+}
+
+.birthdays img {
+  width: 100%;
+}
+
+.weddings img {
+  width: 100%;
+}
+
+.carcrashes img {
+  width: 100%;
+}
+
+.taxes img {
+  width: 100%;
+}
+
+.birthdays:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.weddings:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.carcrashes:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.taxes:hover {
+  opacity: 1;
+  cursor: pointer;
+}

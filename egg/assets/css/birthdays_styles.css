@@ -1,0 +1,45 @@
+body {
+  background: white;
+  -webkit-user-select: none;
+}
+
+.cake_wrapper {
+  width: 385px;
+  float: center;
+  margin: 0 auto;
+  font-size: 0;
+  margin-top: 325px;
+  padding-left: 15px;
+}
+
+.cakes {
+  display: inline-block;
+  cursor: crosshair;
+  width: 40px;
+  margin: 0 15 0 0;
+}
+
+.microsoft_cake {
+  cursor: crosshair;
+}
+
+.cakes img {
+  width: 100%;
+}
+
+.cakes:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.3);
+}
+
+.back_button {
+  position: absolute;
+  width: 30px;
+  margin: 0 0 10 5; 
+  bottom: 0px;
+  cursor: pointer;
+}
+
+.back_button img {
+  width: 100%;
+}
