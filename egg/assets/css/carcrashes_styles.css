@@ -1,0 +1,28 @@
+body {
+    width: 1410px;
+}
+
+.carcrash {
+    display: inline-block;
+}
+
+.car_crashes {
+    width: 1500;
+    margin: 0 auto;
+}
+
+.back_button {
+  float: left;
+  margin-top: 80;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.toggle {
+  float: right;
+  margin-top: 80;
+  margin-bottom: 30px;
+  margin-right: 215px;
+  cursor: pointer;
+}

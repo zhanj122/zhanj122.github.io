@@ -1,10 +1,21 @@
-$(function(){
+// $(function(){
 
     
+//     $('.balloon').click(function(){
+   
+//         // alert("hi");
+//         $(this).addClass('.pop');
+        
+//     });
+    
+// });
+
+$(function(){
+
     $('.balloon').click(function(){
    
-        alert("hi");
-        $(this).addClass('falling');
+        // alert("hi");
+        $(this).addClass('.pop');
         
     });
     

@@ -9,14 +9,14 @@ body {
   margin: 0 auto;
   font-size: 0;
   margin-top: 325px;
-  padding-left: 15px;
+  padding-left: 35px;
 }
 
 .cakes {
   display: inline-block;
   cursor: crosshair;
   width: 40px;
-  margin: 0 15 0 0;
+  margin: 0 0 0 15;
 }
 
 .microsoft_cake {
@@ -42,4 +42,12 @@ body {
 
 .back_button img {
   width: 100%;
+}
+
+.toggle {
+  width: 50px;
+  float: right;
+  margin: 315 10 10 0; 
+  bottom: 0px;
+  cursor: pointer;
 }

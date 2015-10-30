@@ -22,7 +22,7 @@ body {
   display: inline-block;
   position: absolute;
   opacity: 0;
-  width: 110px;
+  width: 250px;
   top: 500px;
   left: 320px;
 }
@@ -32,18 +32,18 @@ body {
   position: absolute;
   opacity: 0;
   width: 230px;
-  top: 2500px;
+  top: 1800px;
   left: 430px;
 }
 
-.taxes {
-  display: inline-block;
-  position: absolute;
-  opacity: 0;
-  width: 120px;
-  top: 3100px;
-  left: 430px;
-}
+/*.taxes {*/
+/*  display: inline-block;*/
+/*  position: absolute;*/
+/*  opacity: 0;*/
+/*  width: 120px;*/
+/*  top: 3100px;*/
+/*  left: 430px;*/
+/*}*/
 
 .birthdays img {
   width: 100%;
